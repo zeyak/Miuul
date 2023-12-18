@@ -1,0 +1,3 @@
+arch -x86_64 /bin/zsh   # Open a new terminal session using Rosetta 2
+conda create -n x86_env python=3.x  # Create the Conda environment
+conda activate x86_env  # Activate the environment

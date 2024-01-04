@@ -8,6 +8,8 @@ rule all:
 rule tRNAscan:
    input: "resource/Genome/G_intestinalis.fasta"
    output:"output/tRNA_scan_result.txt"
+   conda:
+     "env/env.yaml"
    shell: """tRNAscan-SE {input} -o {output}"""
 
 
@@ -51,7 +53,7 @@ rule makeblastdb:
     params:
         outname="output/{type}/db/{db}"
     conda:
-        "env/env.yaml"
+         "/Users/zeyku390/opt/miniforge3/envs/blast"
     shell:
         'makeblastdb -dbtype nucl -in {input} -out {params.outname}'
 
@@ -69,6 +71,6 @@ rule blastn:
           max_hsps=1,
           db_prefix="output/{type}/db/{db}"
     conda:
-         "env/env.yaml"
+         "/Users/zeyku390/opt/miniforge3/envs/blast"
     script:
           "scripts/blastn.py"

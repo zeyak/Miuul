@@ -1,5 +1,6 @@
 import pandas as pd
 import seaborn as sns
+import matplotlib.pyplot as plt
 
 blast_G_muris = pd.read_csv('/Users/zeyku390/PycharmProjectsCE/Miuul/output/blastn/G_intestinalis/G_muris.blastn',
                             sep='\t', header=None)
@@ -15,3 +16,5 @@ sns.histplot(data=blast_G_muris, x='pident')
 
 #pivot_table = pd.pivot_table(blast_G_muris, values='length', index='qseqid', columns='sseqid')
 #sns.heatmap(pivot_table)
+
+plt.show()

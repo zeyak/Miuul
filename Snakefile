@@ -2,16 +2,14 @@ rule all:
     input:
         #"output/tRNA_scan_result.txt",
         #"output/G_intestinalis.tRNA",
-        expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
-        #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"]),
+        #expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
+        expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"])
 
 rule tRNAscan:
    input: "resource/Genome/G_intestinalis.fasta"
    output:"output/tRNA_scan_result.txt"
-   conda:
-     "env/env.yaml"
+   conda: "env/env.yaml"
    shell: """tRNAscan-SE {input} -o {output}"""
-
 
 rule tRNAscan_stats:
     input:
@@ -52,8 +50,7 @@ rule makeblastdb:
         "output/{type}/db/{db}.nto"
     params:
         outname="output/{type}/db/{db}"
-    conda:
-         "/Users/zeyku390/opt/miniforge3/envs/blast"
+
     shell:
         'makeblastdb -dbtype nucl -in {input} -out {params.outname}'
 
@@ -70,7 +67,6 @@ rule blastn:
           max_target_seqs=1,
           max_hsps=1,
           db_prefix="output/{type}/db/{db}"
-    conda:
-         "/Users/zeyku390/opt/miniforge3/envs/blast"
+
     script:
           "scripts/blastn.py"

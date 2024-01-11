@@ -21,3 +21,4 @@ shell(f"""
     -max_target_seqs {max_target_seqs} \
     -max_hsps {max_hsps}
 """)
+

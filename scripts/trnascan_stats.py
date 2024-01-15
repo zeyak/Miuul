@@ -1,3 +1,8 @@
+'''
+This is a script to run tRNAscan-SE
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 from snakemake.shell import shell
 
 genome = snakemake.input.genome

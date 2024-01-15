@@ -1,3 +1,7 @@
+'''
+This script is used to run blastn
+© Copyright 2024 Zeynep Akdeniz
+'''
 from snakemake.shell import shell
 
 # input,output

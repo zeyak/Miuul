@@ -1,3 +1,7 @@
+'''
+Bu script nükleotid sayımı, pozisyon belirleme, sözlüğe çevirme ve listeye çevirme işlemlerini yapmaktadır.
+© Copyright 2024 Zeynep Akdeniz
+'''
 from script5 import ana_islem
 
 dna_dizisi = "AGCTATAG"

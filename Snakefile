@@ -1,9 +1,15 @@
+'''
+This is a snakemake file for Miuul Bioinforamtics Bootcamp projects.
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 rule all:
     input:
         #"output/tRNA_scan_result.txt",
         #"output/G_intestinalis.tRNA",
         #expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
-        expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"])
+        #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"])
+        "output/orthofinder/",
 
 rule tRNAscan:
    input: "resource/Genome/G_intestinalis.fasta"
@@ -67,6 +73,17 @@ rule blastn:
           max_target_seqs=1,
           max_hsps=1,
           db_prefix="output/{type}/db/{db}"
-
+    conda:
+        "env/env.yaml"
     script:
           "scripts/blastn.py"
+
+rule orthofinder:
+    input:
+        fasta = "resource/orthofinder/",
+    output:
+          directory('output/orthofinder/')
+    conda:
+        "env/env.yaml"
+    script:
+          "scripts/orthofinder.py"

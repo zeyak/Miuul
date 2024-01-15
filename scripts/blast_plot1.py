@@ -1,3 +1,8 @@
+'''
+This script is used to plot the blastn results
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt

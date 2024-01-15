@@ -1,3 +1,7 @@
+'''
+This script is used to plot the tRNA distribution across the genome
+© Copyright 2024 Zeynep Akdeniz
+'''
 import pandas as pd
 import matplotlib.pyplot as plt
 

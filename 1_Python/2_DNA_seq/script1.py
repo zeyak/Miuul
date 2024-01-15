@@ -1,3 +1,8 @@
+'''
+Bu script DNA dizisini tersine çevirmektedir.
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 #Verilen diziyi tersine çevirir.
 def ters_cevir(dizi):
     return dizi[::-1]

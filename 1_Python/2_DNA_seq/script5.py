@@ -1,3 +1,8 @@
+'''
+Bu script verilen diziyi 3'er 3'er gruplamaktadır.
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 #verilen diziyi 3'er 3'er gruplayan program yazınız.
 #örnek: AGCTATAGT
 #       AGC TAT AGT

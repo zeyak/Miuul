@@ -1,3 +1,8 @@
+'''
+Bu script 4 scripti birleştirmektedir.
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 # Önceki scriptlerdeki fonksiyonları buraya çağırıyoruz
 from script1 import liste_yapma
 from script2 import sozluk_yapma

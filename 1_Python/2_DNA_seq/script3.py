@@ -1,3 +1,8 @@
+'''
+Bu script kuyruk ekleme işlemi yapmaktadır.
+© Copyright 2024 Zeynep Akdeniz
+'''
+
 #Verilen dizinin başına ve sonuna uzun "AAAAAAAA" kuyrukları ekle
 
 def kuyruk_ekle(dizi, kuyruk="AAAAAAAA"):

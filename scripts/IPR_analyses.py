@@ -7,7 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # read csv
-df = pd.read_csv("/Users/zeyku390/PycharmProjects/Miuul/resource/interproscan/G_muris.tsv", sep="\t",
+df = pd.read_csv("/Users/zeyku390/PycharmProjects/Miuul/resource/interproscan/G_muris_.tsv", sep="\t",
                  names=list(range(0, 15)),
                  engine='python', quoting=3)[[0, 3, 4, 5, 11, 12]]
 

@@ -1,6 +1,5 @@
-# Bioinformatics Webinar Series
-
-This repository contains materials related to a Miuul Bioinformatics Bootcamp.
+# Miuul Bioinformatics Bootcamp-2024
+This repository contains materials related to Miuul Bioinformatics Bootcamp.
 
 ## Contents
 

@@ -2,7 +2,6 @@
 This is a snakemake file for Miuul Bioinforamtics Bootcamp projects.
 © Copyright 2024 Zeynep Akdeniz
 '''
-
 rule all:
     input:
         #"output/tRNA_scan_result.txt",
@@ -12,14 +11,14 @@ rule all:
         "output/orthofinder/",
 
 rule tRNAscan:
-   input: "resource/Genome/G_intestinalis.fasta"
+   input: "resource/genome/G_intestinalis.fasta"
    output:"output/tRNA_scan_result.txt"
    conda: "env/env.yaml"
    shell: """tRNAscan-SE {input} -o {output}"""
 
 rule tRNAscan_stats:
     input:
-            genome= "resource/Genome/G_intestinalis.fasta"
+            genome= "resource/genome/G_intestinalis.fasta"
     output:
             tRNA = "output/G_intestinalis.tRNA",
             stats = "output/G_intestinalis.stats"
@@ -28,11 +27,11 @@ rule tRNAscan_stats:
     conda:
          "env/env.yaml"
     script:
-         "scripts/tRNAscan_stats.py"
+         "scripts/2_BioinformaticsTools/tRNAscan_stats.py"
 
 rule tRNAscan_stats_wildcard:
     input:
-        genome="resource/Genome/{genome}.fasta"
+        genome="resource/genome/{genome}.fasta"
     output:
         tRNA="output/tRNAscan/{genome}.tRNA",
         stats="output/tRNAscan/{genome}.stats"
@@ -41,7 +40,7 @@ rule tRNAscan_stats_wildcard:
     conda:
         "env/env.yaml"
     script:
-        "scripts/tRNAscan_stats.py"
+        "scripts/2_BioinformaticsTools/tRNAscan_stats.py"
 
 rule makeblastdb:
     input:
@@ -76,7 +75,7 @@ rule blastn:
     conda:
         "env/env.yaml"
     script:
-          "scripts/blastn.py"
+          "scripts/2_BioinformaticsTools/blastn.py"
 
 rule orthofinder:
     input:
@@ -86,4 +85,4 @@ rule orthofinder:
     conda:
         "env/env.yaml"
     script:
-          "scripts/orthofinder.py"
+          "scripts/2_BioinformaticsTools/orthofinder.py"

@@ -1,0 +1,2823 @@
+id	COG	KEGG_KOs	ann_egg
+GL50803_60001	S		Retrotransposon protein
+GL50803_60004	S		Retrotransposon protein
+GL50803_60026	M		Ankyrin Repeat Protein
+GL50803_60027	T	K04371,K08818,K12765	Male germ cell-associated kinase
+GL50803_8044	S	K12386	PQ loop repeat
+GL50803_16313	A	K14843	Component of the NOP7 complex, which is required for maturation of the 25S and 5.8S ribosomal RNAs and formation of the 60S ribosome (By similarity)
+GL50803_95162	S	K06252	WNT inhibitory factor 1
+GL50803_8038	U	K14297	nuclear pore complex protein
+GL50803_8037	D	K02087,K02088,K02206,K07760	Cyclin-Dependent Kinase
+GL50803_8035	J	K14824	Ribosome biogenesis protein
+GL50803_14614	J	K03263,K15151	eukaryotic translation initiation factor
+GL50803_2452	E	K01750,K18258	Crystallin, mu
+GL50803_16311	J	K11131	TruB pseudouridine (psi) synthase homolog 1 (E. coli)
+GL50803_16310	J	K02900	60s ribosomal protein
+GL50803_22165	T	K04368,K08294	mitogen-activated protein kinase kinase
+GL50803_12945	S	K00688	Yip1 domain family
+GL50803_60030	S	K02599	WNT inhibitory factor 1
+GL50803_d113304	S		regulation of RNA biosynthetic process
+GL50803_d15250	O		proprotein convertase subtilisin kexin type
+GL50803_6702	T	K06176	pseudouridylate synthase 7 homolog (S
+GL50803_6700	T	K02206,K08828,K08829,K12765	Male germ cell-associated kinase
+GL50803_14278	S		Inherit from euNOG: membrane associated protein
+GL50803_14277	G	K14521	N-acetyltransferase 10
+GL50803_17025	E		ATP GTP binding
+GL50803_95661	S	K16582	Tubulin tyrosine ligase-like family, member
+GL50803_8438	M		Ankyrin Repeat Protein
+GL50803_17023	E	K06653	Ankyrin Repeat
+GL50803_95653	S		coiled-coil domain containing 39
+GL50803_8444	P	K08169	Major Facilitator Superfamily
+GL50803_8445	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_113836	S	K02599	WNT inhibitory factor 1
+GL50803_23767	S	K16912	LAS1-like (S. cerevisiae)
+GL50803_10612	T	K17605	PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides. Acts as a regulatory subunit for PP2A-like phosphatases modulating their activity or substrate specificity, probably by inducing a conformational change in the catalytic subunit, a direct target of the PPIase. Can reactivate inactive phosphatase PP2A-phosphatase methylesterase complexes (PP2Ai) in presence of ATP and Mg(2 ) by dissociating the inactive form from the complex (By similarity)
+GL50803_15252	O		ubiquitin-conjugating enzyme
+GL50803_10609	T	K08271,K08835,K17532	ste20-related kinase adaptor
+GL50803_10606	K	K12581	Ccr4-not transcription complex, subunit
+GL50803_10605	T		Ribosomal protein S6
+GL50803_15250	O		proprotein convertase subtilisin kexin type
+GL50803_113304	S		regulation of RNA biosynthetic process
+GL50803_113303	O	K01363	cathepsin
+GL50803_16363	E	K00814	alanine aminotransferase
+GL50803_16364	U	K12391,K12400	Adaptor-related protein complex
+GL50803_16365	S		Zinc finger protein
+GL50803_23655	V	K03327	Mate efflux family protein
+GL50803_26894	S		small proline-rich protein 3
+GL50803_60083	T		Serine Threonine protein kinase
+GL50803_113297	S		VSP with INR
+GL50803_88581	S	K10258	Trans-2,3-enoyl-CoA
+GL50803_5328	U	K00873,K11481,K11827	adaptor-related protein complex 2, sigma 1 subunit
+GL50803_13896	O		Family with sequence similarity 108, member
+GL50803_16298	J	K02977	Ribosomal protein
+GL50803_5333	T	K02183	Calcium binding protein
+GL50803_16299	S	K14856	SDA1 domain containing 1
+GL50803_2834	U	K15044	ArfGAP with FG repeats
+GL50803_16300	S		Ankyrin Repeat
+GL50803_d103094	E	K09257	Ankyrin Repeat
+GL50803_113284	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17058			
+GL50803_1890	J	K12590	Exosome component 5
+GL50803_17056	J	K02940	ribosomal protein l9
+GL50803_17055	T	K00907	IG_like
+GL50803_17054	J	K02941,K17591	60S acidic ribosomal protein
+GL50803_17053	S		Ankyrin repeat domain 24
+GL50803_91476			
+GL50803_17051	E	K10645	Ankyrin Repeat
+GL50803_91504	S		AHNAK nucleoprotein
+GL50803_50028			
+GL50803_116477	S		VSP with INR
+GL50803_96616	T	K08824	Cyclin-dependent kinase-like
+GL50803_27836	M		Ankyrin Repeat Protein
+GL50803_17157	A	K11583	Protein phosphatase 2, regulatory subunit B
+GL50803_15099	O	K02731,K14810	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_13998	J	K01868,K17420	Threonyl-trna synthetase
+GL50803_17152	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_17151	S	K00355,K11746,K11748	(NAD(P)H dehydrogenase) (Quinone)
+GL50803_17150	S		Flavodoxin-like fold
+GL50803_7588	T	K04460,K13807	protein phosphatase, EF-hand calcium binding domain
+GL50803_14488	D	K05868,K06627,K11599	g2 mitotic-specific
+GL50803_7579	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_7578	T	K02183	Calcium binding protein
+GL50803_17149	O	K14539	Large subunit GTPase 1
+GL50803_88245	M		Ankyrin Repeat Protein
+GL50803_134442	S	K16535	Inherit from NOG: fgfr1op N-terminal like
+GL50803_60130	L	K02543,K06640	Ataxia telangiectasia and rad3 related
+GL50803_87706	S	K05635	Laminin, alpha
+GL50803_50041	U		High cysteine membrane protein Group 1
+GL50803_15109			
+GL50803_16376	A	K12812,K13182	(RNA) helicase
+GL50803_34684	L	K11594	purine NTP-dependent helicase activity
+GL50803_15112	V	K14819	Dual specificity phosphatase
+GL50803_15113	Z	K11340,K11652	Actin-like
+GL50803_10091	J	K02894	ribosomal protein
+GL50803_16375	S	K19685	tetratricopeptide repeat domain 26
+GL50803_16374	S		WNT inhibitory factor 1
+GL50803_16373			
+GL50803_114815	S	K06252	WNT inhibitory factor 1
+GL50803_39904	S		VSP with INR
+GL50803_134441	S	K16535	Inherit from NOG: fgfr1op N-terminal like
+GL50803_114813	O	K07762,K08647	whole genome shotgun sequence
+GL50803_15867	O	K14539	Large subunit GTPase 1
+GL50803_15868	O	K15716	RING
+GL50803_15869	S	K03066,K07936	GTP-binding nuclear protein
+GL50803_88735	E	K09257	Ankyrin Repeat
+GL50803_22850	T	K19603	Mitogen-activated protein kinase
+GL50803_16263	S	K16780	syndrome nuclear autoantigen 1
+GL50803_12949	O	K02737,K02740,K11598	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_2261	A	K11583	Protein phosphatase 2, regulatory subunit B
+GL50803_12950	O	K10573,K10574,K10585	ubiquitin-conjugating enzyme
+GL50803_60147	J	K02983	ribosomal protein S30
+GL50803_16264	A	K14556	WD repeat domain 3
+GL50803_16265	J	K02984	40s ribosomal protein
+GL50803_8415	S	K14840	glioma tumor suppressor candidate region gene 2
+GL50803_14702	A	K14792	programmed cell death
+GL50803_8407	E	K01270	Clan MH, family M20, peptidase T-like metallopeptidase
+GL50803_16266	T		IG_like
+GL50803_8405	C		zinc finger, C2HC-type containing
+GL50803_14699	J	K02973	Ribosomal protein S23
+GL50803_16267	S		kinetoplast-associated protein-like protein
+GL50803_137605			
+GL50803_114120	T	K10645	Neurofibromin 1
+GL50803_16114	J	K02920	60S ribosomal protein l36
+GL50803_14753	S	K10752	retinoblastoma binding protein
+GL50803_42048	Q	K05681	ATP-binding cassette, subfamily G (WHITE), member 2
+GL50803_12795	T		Inherit from saccNOG: Phosducin
+GL50803_15897	C	K00327	This enzyme is required for electron transfer from NADP to cytochrome P450 (By similarity)
+GL50803_15898	U		DTW domain containing 1
+GL50803_25809	O	K11838	ubiquitin carboxyl-terminal hydrolase
+GL50803_16076	O	K03386,K13279,K20011	peroxiredoxin
+GL50803_16078			
+GL50803_4463	T	K10411	leucine rich repeat
+GL50803_4465	L	K02543,K06640	Ataxia telangiectasia and rad3 related
+GL50803_60167	L	K02543,K06640	Ataxia telangiectasia and rad3 related
+GL50803_114891	S	K05635	Laminin, alpha
+GL50803_50057	U		High cysteine membrane protein Group 1
+GL50803_14841	S	K01091	Phosphoglycolate phosphatase
+GL50803_9030	M		Ankyrin Repeat Protein
+GL50803_14842	A	K05605,K14191	dimethyladenosine transferase
+GL50803_14843	O	K09523,K09524,K09536,K17867	chaperone protein DNAJ
+GL50803_9036	K		Chromosome 2 open reading frame 18
+GL50803_91398	J	K03238	eukaryotic translation initiation factor 2
+GL50803_9038	H	K00763	Nicotinate phosphoribosyltransferase
+GL50803_21233	S		tripartite motif containing
+GL50803_21234			
+GL50803_9043	G		NIPA-like domain containing
+GL50803_9046	G		Major Facilitator Superfamily
+GL50803_100864	U	K18466	Vacuolar Protein
+GL50803_91374	S		Inherit from euNOG: Conserved hypothetical protein
+GL50803_16086	J	K02938	Ribosomal Proteins L2, C-terminal domain
+GL50803_5070			
+GL50803_117440	S		VSP with INR
+GL50803_d117440	S		VSP with INR
+GL50803_36884	S		conserved hypothetical protein
+GL50803_16152	S	K12472	Viral A-type inclusion protein
+GL50803_113213	S	K02599	WNT inhibitory factor 1
+GL50803_14456	T	K01104,K03686,K14394	Low molecular weight phosphotyrosine protein phosphatase
+GL50803_14457	J	K02905	Ribosomal protein L29
+GL50803_7439	T	K03456	(Regulatory) subunit
+GL50803_7444	S		whole genome shotgun sequence
+GL50803_13109	S		member RAS oncogene family
+GL50803_15958	T		Ribosomal protein S6
+GL50803_14586	S		VSP with INR
+GL50803_d14586	S		VSP with INR
+GL50803_13239	Z		heavy chain
+GL50803_17103	L	K01657,K02213,K02603	Cell division control protein
+GL50803_102051	E	K14997	transmembrane amino acid transporter protein
+GL50803_17105	K	K19676	intraflagellar transport 172 homolog (Chlamydomonas)
+GL50803_17106	O	K03066,K07936	26S protease regulatory subunit
+GL50803_6427	G		Major Facilitator superfamily
+GL50803_14200	H	K15631	Molybdenum cofactor sulfurase
+GL50803_6430	T	K06630	Tyrosine 3-monooxygenase tryptophan 5-monooxygenase activation protein
+GL50803_17109	U		Vacuolar protein
+GL50803_22338	A	K00565	mRNA cap guanineN7 methyltransferase
+GL50803_1656	T		mitogen-activated protein kinase kinase kinase
+GL50803_17112	J	K14846	ribosome production factor 1
+GL50803_102034	T		calcium-dependent protein kinase
+GL50803_8819	S	K07845,K11253,K11660	Family with sequence similarity 96, member
+GL50803_8822	G	K15633	phosphoglycerate mutase
+GL50803_8826	G	K00845	glucokinase (EC 2.7.1.2)
+GL50803_14783	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_50064	O	K07762,K08647	whole genome shotgun sequence
+GL50803_1903	J	K10754,K19589	N-6 adenine-specific DNA methyltransferase 1
+GL50803_104031	G	K00693	Glycogen synthase
+GL50803_16547	S	K19656	Intraflagellar transport 122 homolog (Chlamydomonas)
+GL50803_7103	E	K09257	Ankyrin Repeat
+GL50803_14360	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_7110	O	K08770	ubiquitin B
+GL50803_14361	S		AHNAK nucleoprotein
+GL50803_14362	S		FYVE and coiled-coil domain containing 1
+GL50803_16549	F		uridine kinase
+GL50803_14364	T	K07198,K12761	serine threonine-protein kinase
+GL50803_86761	S		coiled-coil domain containing 88A
+GL50803_16552	I	K00938	Phosphomevalonate kinase
+GL50803_16554	S	K12836	auxiliary factor
+GL50803_16556	T		whole genome shotgun sequence
+GL50803_13901	M	K08803,K15503	Ankyrin Repeat Protein
+GL50803_60196	T		Serine Threonine protein kinase
+GL50803_50066			
+GL50803_16194			
+GL50803_7728	M		Ankyrin Repeat Protein
+GL50803_35180	L	K07203	PIKK family atypical protein kinase
+GL50803_8026	A	K13148	cleavage and polyadenylation specificity factor
+GL50803_8025	O		ATP GTP binding protein-like 5
+GL50803_14242	Z	K10408,K10413,K10414	heavy chain
+GL50803_6564	L	K04802	This protein is an auxiliary protein of DNA polymerase delta and is involved in the control of eukaryotic DNA replication by increasing the polymerase's processibility during elongation of the leading strand (By similarity)
+GL50803_6563	F	K00761	uridine kinase
+GL50803_14241	O	K12009	PRY
+GL50803_24400	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_112207	O	K07762,K08647	whole genome shotgun sequence
+GL50803_50070	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_16572	I	K00670,K17972	N(alpha)-acetyltransferase 20, NatB catalytic subunit
+GL50803_15048	L	K11594	purine NTP-dependent helicase activity
+GL50803_15049	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_9802	S		Ankyrin repeat domain 24
+GL50803_9803	A	K11090,K15191	Sjogren syndrome antigen B (autoantigen La)
+GL50803_9808	O	K09503	DnaJ (Hsp40) homolog, subfamily A, member
+GL50803_9810	J	K02929	60s ribosomal protein
+GL50803_60211	J	K02966	Ribosomal protein S19
+GL50803_15054	S		Kelch domain containing
+GL50803_104685	T	K16466	centrin, EF-hand protein
+GL50803_103164	S		whole genome shotgun sequence
+GL50803_16575	Q		(ABC) transporter
+GL50803_40783	J	K02435,K15456	KTI12 homolog, chromatin associated (S. cerevisiae)
+GL50803_5213	J		Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)
+GL50803_33809	J	K14795	Component of the 90S pre-ribosome involved in the maturation of rRNAs. Required for early cleavages of the pre-RNAs in the 40S ribosomal subunit maturation pathway (By similarity)
+GL50803_16577	V	K03327	Mate efflux family protein
+GL50803_98054	O	K04079	Hsp90 protein
+GL50803_90950	L	K14777,K14808	atp-dependent rna helicase
+GL50803_33807	M		Ankyrin Repeat Protein
+GL50803_3470	Q		ATP-binding cassette sub-family A ABC1 member
+GL50803_24194	S		Ankyrin Repeat
+GL50803_16463	T	K09140	pre-rRNA processing protein involved in ribosome biogenesis (By similarity)
+GL50803_17243	Z	K10408	Dynein, axonemal heavy chain
+GL50803_8173	G	K00864	Glycerol kinase
+GL50803_8174	E	K14242	Ankyrin Repeat
+GL50803_8182	P		ATPase, class
+GL50803_3563	S		AHNAK nucleoprotein
+GL50803_3565	J	K05544	Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs
+GL50803_13390	S		VSP with INR
+GL50803_137722	S		VSP with INR
+GL50803_137723	S		VSP with INR
+GL50803_37093	S		regulation of RNA biosynthetic process
+GL50803_14158			
+GL50803_16339			
+GL50803_6283	A	K09097,K18655,K18656	ATPdependent RNA helicase
+GL50803_6284	S		Ankyrin repeat protein
+GL50803_113871			
+GL50803_6375	E	K01760,K10764	cystathionine beta-lyase
+GL50803_102461			
+GL50803_14626	Q	K10251	Oxidoreductase short chain dehydrogenase reductase family
+GL50803_113876	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_137721	S		FU
+GL50803_4008	S	K06685	MOB kinase activator
+GL50803_34058	L	K08737	Component of the post-replicative DNA mismatch repair system (MMR). Heterodimerizes with msh-2 to form MutS beta, which binds to DNA mismatches thereby initiating DNA repair. Msh-3 provides substrate-binding and substrate-specificity to the complex. When bound, the MutS beta heterodimer bends the DNA helix and shields approximately 20 base pairs. Acts mainly to repair insertion-deletion loops (IDLs) from 2 to 13 nucleotides in size, but can also repair base-base and single insertion-deletion mismatches that occur during replication. After mismatch binding, forms a ternary complex with the MutL alpha heterodimer, which is thought to be responsible for directing the downstream MMR events, including strand discrimination, excision, and resynthesis. ATP binding and hydrolysis play a pivotal role in mismatch repair functions (By similarity)
+GL50803_24807	S		Ankyrin repeat protein
+GL50803_13104	L	K10872	Meiotic recombination protein dmc1
+GL50803_13101	S		basic, immunoglobulin-like variable motif containing
+GL50803_16356	I		SAC1 suppressor of actin mutations 1-like (yeast)
+GL50803_16355	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_16354	M		Ankyrin Repeat Protein
+GL50803_113892	I		Acyl-CoA synthetase long-chain family member
+GL50803_16353	S		Resistance protein
+GL50803_20037	B	K11253	histone H3
+GL50803_16953	L	K04799	Structure-specific nuclease with 5'-flap endonuclease and 5'-3' exonuclease activities involved in DNA replication and repair. During DNA replication, cleaves the 5'-overhanging flap structure that is generated by displacement synthesis when DNA polymerase encounters the 5'-end of a downstream Okazaki fragment. It enters the flap from the 5'-end and then tracks to cleave the flap base, leaving a nick for ligation. Also involved in the long patch base excision repair (LP-BER) pathway, by cleaving within the apurinic apyrimidinic (AP) site-terminated flap. Acts as a genome stabilization factor that prevents flaps from equilibrating into structurs that lead to duplications and deletions. Also possesses 5'-3' exonuclease activity on nicked or gapped double- stranded DNA, and exhibits RNase H activity. Also involved in replication and repair of rDNA and in repairing mitochondrial DNA (By similarity)
+GL50803_16952	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_8423	S		enkurin domain containing 1
+GL50803_93103	J	K15331,K15332	tRNA methyltransferase 2 homolog
+GL50803_8426	L		retrotransposon-like 1
+GL50803_8427	K	K10643	CCR4-NOT transcription complex subunit 4
+GL50803_8428	T	K08863	NIMA-related kinase
+GL50803_8429	U	K09595	signal peptide peptidase
+GL50803_16951			
+GL50803_8432	O	K03868,K06265	RinG-box protein
+GL50803_8782	S		ESF1, nucleolar pre-rRNA processing protein, homolog (S. cerevisiae)
+GL50803_8781	U		Yip1 domain
+GL50803_16948	A	K14835	Nucleolar protein
+GL50803_91712	E		amino acid
+GL50803_8770			
+GL50803_91707	U		High cysteine membrane protein Group 1
+GL50803_35428	J	K01873	Valyl-trna synthetase
+GL50803_16737	I	K01128	sphingomyelin phosphodiesterase, acid-like
+GL50803_16736	S		Ankyrin repeat protein
+GL50803_103810	S		Ankyrin repeat protein
+GL50803_16734	S	K07204	regulatory associated protein of MTOR
+GL50803_103807	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_16733	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_13475		K18626	
+GL50803_137719	T		NIMA-related kinase
+GL50803_89887	S	K14537,K16474	nucleolar gtp-binding protein
+GL50803_17120	S		Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_11099	S		Ankyrin Repeat
+GL50803_11100	S	K19673	tetratricopeptide repeat domain
+GL50803_15338	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_15339	U	K12392,K12401	Adaptor-related protein complex
+GL50803_15340	M		Ankyrin Repeat Protein
+GL50803_11107	E		Ankyrin Repeat
+GL50803_11118	G	K01689	enolase (EC 4.2.1.11)
+GL50803_11120	D, K	K14966	FN3
+GL50803_15344	L	K02540	dna replication licensing factor
+GL50803_17117	M		Ankyrin Repeat Protein
+GL50803_17118	S		leucine rich repeat family protein
+GL50803_14651	M	K00621,K01679	N-acetyltransferase
+GL50803_8163	C		DHH family
+GL50803_14650	T	K01090,K14803,K17506	PHOsphatase
+GL50803_8157	K	K03013	Dna-directed RNA
+GL50803_14648	S		forebrain astrocyte differentiation
+GL50803_8152	T	K08286,K08857	NimA-related protein kinase
+GL50803_17116	C	K05747	Cytochrome b5 domain containing 1
+GL50803_8146	S	K10473,K16748	melanosome transport
+GL50803_89828	S		MYCBP AMY-1-associated, testis expressed 1
+GL50803_89845	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_114089	U		High cysteine membrane protein Group 1
+GL50803_101496			
+GL50803_6980	L	K02685	DNA primase large subunit
+GL50803_16049	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_16050	Z	K10352	myosin, heavy chain
+GL50803_92760	S		conserved hypothetical protein
+GL50803_23833	U	K18468	Vacuolar Protein
+GL50803_4767	S		ANK
+GL50803_8074	C		DHH family
+GL50803_14628	T	K00889,K13712	phosphatidylinositol-4-phosphate 5-kinase
+GL50803_42676	D	K03529	Required for chromosome condensation and partitioning (By similarity)
+GL50803_16537	M		Ankyrin Repeat Protein
+GL50803_2779	S		Ankyrin Repeat
+GL50803_13127	O	K02732	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_16535	D	K04648	CAP-GLY domain containing linker protein
+GL50803_16534	S		Ankyrin repeat protein
+GL50803_16533	S		Ankyrin repeat protein
+GL50803_16532	M		Ankyrin Repeat Protein
+GL50803_113319	O	K07762,K08647	whole genome shotgun sequence
+GL50803_28057	O	K07762,K08647	whole genome shotgun sequence
+GL50803_6920	S		Viral A-type inclusion protein
+GL50803_6919			
+GL50803_6918	L	K03515	REV1, polymerase (DNA directed)
+GL50803_14322	S	K14827	Rix1 complex component involved in 60S ribosome maturation
+GL50803_14321	J	K02908	60s ribosomal protein
+GL50803_17291	L	K02606	ATPase family associated with various cellular activities (AAA)
+GL50803_32607	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_137717	O	K07762,K08647	whole genome shotgun sequence
+GL50803_9719	C		12-oxophytodienoate reductase
+GL50803_9720	S		Ankyrin Repeat
+GL50803_17288	M		Ankyrin Repeat Protein
+GL50803_9722	S		Ankyrin Repeat
+GL50803_93294	S		conserved hypothetical protein
+GL50803_17285	M		Ankyrin Repeat Protein
+GL50803_17284	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_14859	S		ANK
+GL50803_14858	S		von Willebrand factor A domain containing 7
+GL50803_9077	U	K01099	inositol
+GL50803_14856	U	K06640,K13431	Signal recognition particle receptor
+GL50803_14855	T	K00922,K00923,K04429	phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2
+GL50803_9073	V		Dual specificity phosphatase
+GL50803_17283		K18626	
+GL50803_6483	L	K03470,K10743,K14309	Endonuclease that specifically degrades the RNA of RNA- DNA hybrids (By similarity)
+GL50803_21156	T		calcium-dependent protein kinase
+GL50803_14223	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_6490	E	K14242	Ankyrin Repeat
+GL50803_6492	C		glycerophosphocholine phosphodiesterase GDE1 homolog (S. cerevisiae)
+GL50803_27880	A		RNA binding protein
+GL50803_13523	U		ARF
+GL50803_17277	T		phospholipase B domain containing
+GL50803_13524	T	K01090,K06269	serine threonine-protein phosphatase
+GL50803_13525	J	K02995,K15430	tRNA methyltransferase 11 homolog (S. cerevisiae)
+GL50803_4059	H	K01243	Phosphorylase superfamily
+GL50803_137716	S	K12472	Viral A-type inclusion protein
+GL50803_3910	S		Thioredoxin family
+GL50803_137715	S		FU
+GL50803_137714	S		regulation of RNA biosynthetic process
+GL50803_11470	S		regulation of RNA biosynthetic process
+GL50803_11449	O	K14058,K14168	Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Directly binds tRNAs and probably acts by catalyzing adenylation of tRNAs, an intermediate required for 2-thiolation. It is unclear whether it acts as a sulfurtransferase that transfers sulfur from thiocarboxylated urm1 onto the uridine of tRNAs at wobble position
+GL50803_11448	G	K01835,K11809,K15779	phosphoglucomutase
+GL50803_11442	Z	K10401,K10402	Kinesin family
+GL50803_112729	Z		kinesin family member 11
+GL50803_11438	M	K08803,K15503	Ankyrin Repeat Protein
+GL50803_11436	O		ThiF domain protein
+GL50803_11434	O	K02726	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_92729	I	K15397	3-ketoacyl-coa synthase
+GL50803_33434	S		TBC1 domain family, member 19
+GL50803_13427	M	K17593	Ankyrin Repeat Protein
+GL50803_92739	A		ATPdependent RNA helicase
+GL50803_92741	T	K00924,K08287,K08823,K19995	CDC-like kinase
+GL50803_23235	T	K00870,K04427	protein kinase kinase kinase
+GL50803_112718	J	K12585	DIS3 mitotic control homolog (S
+GL50803_16472	S		FU
+GL50803_16471	S		ANK
+GL50803_13464	A	K12827	Splicing factor 3A subunit 3
+GL50803_23808	V		Mate efflux family protein
+GL50803_33660	M		Ankyrin Repeat Protein
+GL50803_16468	O		cathepsin
+GL50803_3287	I	K00626	Acetyl-CoA acetyltransferase
+GL50803_137712		K17570	
+GL50803_7203	F	K00942	guanylate kinase
+GL50803_14392	S		metallo-beta-lactamase superfamily protein
+GL50803_7207	S		EF hand family protein
+GL50803_16747	D	K15255	DNA helicase
+GL50803_14807	E	K09257	Ankyrin Repeat
+GL50803_8913	S		Metallo-beta-lactamase superfamily
+GL50803_8914	S		forebrain astrocyte differentiation
+GL50803_28666	J	K00586,K17081	S-adenosyl-L-methionine-dependent methyltransferase that catalyzes the trimethylation of the amino group of the modified target histidine residue in translation elongation factor 2 (EF- 2), to form an intermediate called diphthine. The three successive methylation reactions represent the second step of diphthamide biosynthesis (By similarity)
+GL50803_8916	U	K03107	Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane (By similarity)
+GL50803_8917	U	K11826	AP2 complex subunit
+GL50803_16745		K18626	
+GL50803_8920	S	K16470	Inherit from euNOG: DAZ interacting protein
+GL50803_8921	B, K	K11422	Set domain
+GL50803_13479	S		Ankyrin Repeat
+GL50803_13478	S	K07944,K07977	ADP-ribosylation factor-like
+GL50803_112693	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_30448	G		Inherit from euNOG: Transporter permease protein
+GL50803_9283			
+GL50803_9287	L	K10755,K14015	replication factor c
+GL50803_9289	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_9293	T	K01090,K14803,K17506	PHOsphatase
+GL50803_41472	S		regulation of RNA biosynthetic process
+GL50803_10659	S		VSP with INR
+GL50803_10661	O	K03178,K10586,K10698,K10699	Ubiquitin-like modifier activating enzyme
+GL50803_24425	S		Desumoylating isopeptidase
+GL50803_15260	J	K02958	ribosomal protein S15
+GL50803_10666	B, K	K06062	acetyltransferase
+GL50803_16996	S		enkurin, TRPC channel interacting protein
+GL50803_24423	S	K16462	Centrosomal protein 164kDa
+GL50803_6242	D, Z		tumor protein
+GL50803_6245	T		NLR family, CARD domain containing 5
+GL50803_16993	A	K14857	rRNA methyltransferase
+GL50803_5359	A	K14564,K14565	Nucleolar protein
+GL50803_5358	D	K08850,K11479,K11480,K11481	serine threonine-protein kinase
+GL50803_13904	O	K04797	prefoldin subunit
+GL50803_13903	D		domain-containing protein
+GL50803_114246	J	K06942,K19788	GTP-binding protein
+GL50803_114247	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_24412	E	K06653	Ankyrin Repeat
+GL50803_6724	U	K12669	nuclear transport factor
+GL50803_16130	S		Tetratricopeptide repeat protein
+GL50803_12942	C	K15338	UPF0047 protein
+GL50803_16129	J	K03241	eIF2B-gamma protein
+GL50803_16127	L	K10756	replication factor c
+GL50803_3475	B, K	K10645,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_16125	C		FAD dependent oxidoreductase
+GL50803_14460	O	K11833,K11835	ubiquitin carboxyl-terminal hydrolase
+GL50803_16124	O	K09499	t-complex protein 1
+GL50803_7474	K	K03011	RNA polymerase II
+GL50803_137708	S		regulation of RNA biosynthetic process
+GL50803_137707	S		regulation of RNA biosynthetic process
+GL50803_14259	M	K00621,K01679	N-acetyltransferase
+GL50803_6626	D		meiotic nuclear divisions 1 homolog (S. cerevisiae)
+GL50803_16427	S		Chitin binding Peritrophin-A domain
+GL50803_6672	E	K10645	Ankyrin Repeat
+GL50803_23930	S		Inherit from euNOG: Conserved hypothetical protein
+GL50803_14270	S	K10419	dynein, light chain
+GL50803_6664	P	K14709	solute carrier family 39 (Zinc transporter), member
+GL50803_15196	C	K04488,K19195	iron-sulfur cluster
+GL50803_17069	T	K08857	NIMA-related kinase
+GL50803_17068	S	K11805	ddb1 and cul4 associated factor 7
+GL50803_112553	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_10410	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_92134	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_112557			
+GL50803_3957	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_17065	U	K14007,K14829	SEC24 family, member
+GL50803_17063	P	K00381	Pyruvate ferredoxin oxidoreductase
+GL50803_11178	T	K08794	calcium-dependent protein kinase
+GL50803_11177	S		TPR
+GL50803_40376	O	K07762,K08647	whole genome shotgun sequence
+GL50803_11170	S	K14617	LIMR family
+GL50803_29436	K	K03002	dna-directed RNA polymerase
+GL50803_11165	E	K14242	Ankyrin Repeat
+GL50803_11164	T		calcium-dependent protein kinase
+GL50803_17060	E	K09257	Ankyrin Repeat
+GL50803_112572	E	K14242	Ankyrin Repeat
+GL50803_13223	S		Ankyrin Repeat
+GL50803_16973	S		whole genome shotgun sequence
+GL50803_115572	T	K08857	protein kinase
+GL50803_135886	G	K14634,K15634	phosphoglycerate mutase
+GL50803_10911	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_10908			
+GL50803_15313	J	K01855	tRNA pseudouridine synthase
+GL50803_16979	S	K07916,K07918,K07923,K07976	member RAS oncogene
+GL50803_10893	S	K08052	forebrain astrocyte differentiation
+GL50803_15310	S	K08738	Positively regulates the activity of the minus-end directed microtubule motor protein dynein. May enhance dynein- mediated microtubule sliding by targeting dynein to the microtubule plus end. Required for
+GL50803_34126	V		Mate efflux family protein
+GL50803_25011	A	K07951,K12831	Splicing factor 3B subunit 4
+GL50803_16975	B	K03164	Control of topological states of DNA by transient breakage and subsequent rejoining of DNA strands. Topoisomerase II makes double-strand breaks (By similarity)
+GL50803_7706	S		Sulfite exporter TauE/SafE
+GL50803_135885	G	K14634,K15634	phosphoglycerate mutase
+GL50803_115571	T	K08857	protein kinase
+GL50803_1695	U	K07904	ras-related protein
+GL50803_137703	M		Ankyrin Repeat Protein
+GL50803_137702	T	K08819	Cyclin-Dependent Kinase
+GL50803_111987	E		Ankyrin Repeat
+GL50803_4313	O	K07762,K08647	whole genome shotgun sequence
+GL50803_34713	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_14897	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_23492	E	K09257	Ankyrin Repeat
+GL50803_9196	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_14895	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_9194	L	K02212	dna replication licensing factor
+GL50803_17536			
+GL50803_23496	K	K02999	dna-directed RNA polymerase
+GL50803_17538	A	K11583	Protein phosphatase 2, regulatory subunit B
+GL50803_14874			
+GL50803_9119	L	K14777,K14807,K20096	DEAD (Asp-Glu-Ala-Asp) box polypeptide
+GL50803_9117	T	K04739	protein kinase, cAMP-dependent, regulatory, type
+GL50803_9116	T	K00870,K03083	Glycogen synthase kinase
+GL50803_9115	G	K01810	glucose-6-phosphate isomerase
+GL50803_14872	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_17539	A	K12820	atp-dependent rna helicase
+GL50803_14869	J	K02896	Ribosome biogenesis protein
+GL50803_17540	S		At rich interactive domain
+GL50803_17541	B		WD repeat domain 17
+GL50803_11190	A		HAT
+GL50803_15364	S		Inherit from NOG: surface protein
+GL50803_111967	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_11186	K	K12885	RNA binding motif protein
+GL50803_17543	S		zinc finger, MYND-type containing 10
+GL50803_11676	B, K	K11121,K11412	DeAcetylase
+GL50803_15469	O	K12196	endosome to lysosome transport via multivesicular body sorting pathway
+GL50803_40390		K18626	
+GL50803_15472	U	K12197	Charged multivesicular body protein 1a
+GL50803_11690			
+GL50803_11692	S		basal body component
+GL50803_15475	T	K13975	protein kinase kinase kinase
+GL50803_15476	M		Ankyrin Repeat Protein
+GL50803_15477	S		copine family
+GL50803_15479	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_17547	J	K02930	Ribosomal protein
+GL50803_111950	Z	K10408,K10413,K10414	heavy chain
+GL50803_9237	K	K13423,K13424,K18835	transcription factor
+GL50803_9239	S		dinuclear metal center protein, YbgI
+GL50803_115742	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_50100			
+GL50803_9665	T	K00870	NIMA-related kinase
+GL50803_137706	S	K08857	forebrain astrocyte differentiation
+GL50803_101994	S		Zinc finger protein
+GL50803_9662	C	K00176	Ferredoxin
+GL50803_9659	S	K07604	M protein repeat protein
+GL50803_9658	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_4558	F	K00893,K00904	thymidine kinase 2, mitochondrial
+GL50803_13652	T	K13448	Calcium binding protein
+GL50803_50101	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_50102			
+GL50803_4264	M		Ankyrin Repeat Protein
+GL50803_24321	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_41467	B, K		ankyrin repeat, family A (RFXANK-like), 2
+GL50803_33862	J	K02951	40s ribosomal protein s12
+GL50803_8722	K	K09420	Myblike DNAbinding domain containing protein
+GL50803_8731	O	K10666	Ring finger protein
+GL50803_8733	S		WNT inhibitory factor 1
+GL50803_16792	T	K00870	NIMA-related kinase
+GL50803_16793	S		AHNAK nucleoprotein
+GL50803_1649	O	K17292	Tubulin binding cofactor A
+GL50803_16794	S		Coiled-coil domain-containing protein
+GL50803_16795	O	K12196	endosome to lysosome transport via multivesicular body sorting pathway
+GL50803_3706	L	K02325	DNA polymerases epsilon N terminal
+GL50803_16796	T	K08851,K09140	TP53 regulating kinase
+GL50803_92892	L	K03424	TatD related DNase
+GL50803_114535	T	K01104,K10645	serine threonine-protein kinase
+GL50803_21498	S		Histone-lysine N-methyltransferase
+GL50803_6680	S	K08052	forebrain astrocyte differentiation
+GL50803_6687	G	K00134	Glyceraldehyde-3-phosphate dehydrogenase, type I
+GL50803_6691	I		acyl-coa binding
+GL50803_21502	K	K03128,K11721	bromodomain containing
+GL50803_3157	O		Inherit from KOG: GLutaRedoXin
+GL50803_3154	U	K12946	signal peptidase
+GL50803_17531			
+GL50803_7896	O	K03038,K08825,K14808	26s proteasome regulatory subunit
+GL50803_7890	L	K10779,K10875	RAD54-like 2 (S. cerevisiae)
+GL50803_14578	T	K08819	Cyclin-Dependent Kinase
+GL50803_21505	M		Ankyrin Repeat Protein
+GL50803_94003	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_15987	I	K13510,K13512	Lysophosphatidylcholine acyltransferase
+GL50803_101904	T		serine threonine-protein phosphatase
+GL50803_21512	Q	K19306	williams Beuren syndrome chromosome region
+GL50803_101906	O	K12196	endosome to lysosome transport via multivesicular body sorting pathway
+GL50803_d113284	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_42657	T		ribosomal protein s6
+GL50803_103094	E	K09257	Ankyrin Repeat
+GL50803_4789	S	K16810	TBCC domain containing 1
+GL50803_16161	Z		Kinesin family member
+GL50803_4365	O	K03065	26S protease regulatory subunit
+GL50803_5522	A	K12828	Inherit from saccNOG: splicing factor
+GL50803_5517	J	K02921,K14566	Ribosomal protein
+GL50803_96580	S	K12478	early endosome antigen 1
+GL50803_13412	A	K14815	mrna turnover protein
+GL50803_96570	S	K19851	Flo11 domain
+GL50803_6650	M		Ankyrin Repeat Protein
+GL50803_96562	S	K20003	zinc finger
+GL50803_16630	L	K03546	SMC domain protein
+GL50803_8118	J	K02981,K02988	Ribosomal protein
+GL50803_14641	B, K	K11422,K14553	UTP18, small subunit (SSU) processome component, homolog (yeast)
+GL50803_102662			
+GL50803_96537	L	K14810	atp-dependent rna helicase
+GL50803_8140	S		BBOX
+GL50803_6226	G	K00688	Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity)
+GL50803_102654	U		Golgin A4
+GL50803_16623	L	K03574	Nudix hydrolase
+GL50803_16622			
+GL50803_30354	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_d14331	S		VSP with INR
+GL50803_14331	S		VSP with INR
+GL50803_114773	O	K01365	cathepsin
+GL50803_137690	A	K13181	DEAD (Asp-Glu-Ala-Asp) box polypeptide 27
+GL50803_16322	S	K06252	WNT inhibitory factor 1
+GL50803_16321	O		domain containing E3 ubiquitin protein ligase
+GL50803_940	S		member RAS oncogene family
+GL50803_5820	B, K	K14964	set1 Ash2 histone methyltransferase complex subunit
+GL50803_32676	E	K06653	Ankyrin Repeat
+GL50803_7236	P	K14609,K14610	Solute carrier family 19
+GL50803_7231	K	K08065	Nuclear transcription factor Y subunit
+GL50803_7230	S		AHNAK nucleoprotein
+GL50803_17192	U		ADP-ribosylation factor guanine nucleotide-exchange factor
+GL50803_3256	F	K12471	Clathrin interactor 1
+GL50803_17193	O		NHL repeat containing
+GL50803_13943	J	K03237	eukaryotic translation initiation factor 2
+GL50803_13941	E	K04486	histidinol phosphate phosphatase, hisj family
+GL50803_17195	S	K12608,K20069	NECAP endocytosis associated
+GL50803_1995	O	K02736,K05542	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_103676	Z	K07374	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_15377	E		Zinc carboxypeptidase
+GL50803_11220	U	K08492	Syntaxin 18
+GL50803_39587	J	K03240	Translation initiation factor eIF-2B
+GL50803_17198	T		receptor protein kinase TMK1-like
+GL50803_17199	J	K15335	NOP2 Sun domain family member
+GL50803_11214	T	K04345,K07376,K19584	CAMP-dependent protein kinase, catalytic subunit
+GL50803_93938	G	K01803	Triose-phosphate isomerase
+GL50803_92645	F		5'-nucleotidase
+GL50803_11209	O	K01365	cathepsin
+GL50803_11207	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_60401			
+GL50803_11204	G	K19944	GTPase Activating protein
+GL50803_15368	O	K07767	katanin p60
+GL50803_17203	S		N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits
+GL50803_92618	H	K06210	(Nicotinamide) nucleotide adenylyltransferase
+GL50803_17205	F		5'-nucleotidase
+GL50803_16460	S	K08857	forebrain astrocyte differentiation
+GL50803_92602	Z	K10352,K18669	myosin, heavy chain
+GL50803_14905	K	K15731	CTD (Carboxy-terminal domain, RNA polymerase II, polypeptide A) small
+GL50803_5593	J	K02868	ribosomal protein l11
+GL50803_5171	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_121046	B	K11252	Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling
+GL50803_16699			
+GL50803_121045	B	K11252	Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling
+GL50803_102978	E	K07432,K07441,K20045	UDP-N-acetylglucosamine transferase subunit ALG13
+GL50803_5180	O	K07305	methionine sulfoxide reductase
+GL50803_92673	L	K11136,K11273	regulator of telomere elongation helicase 1
+GL50803_4430			
+GL50803_92664	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_92663	S		DNA polymerase
+GL50803_16687	S		FYVE zinc finger
+GL50803_16686		K10352	
+GL50803_137688	S		DNA polymerase
+GL50803_60434	T		Ribosomal protein S6
+GL50803_15906	O		Tubulin folding cofactor C
+GL50803_86681	J	K01885,K03027,K14163	synthetase
+GL50803_86683	O	K03061	26S protease regulatory subunit
+GL50803_9173	S		Inherit from NOG: WD40
+GL50803_9174	U	K13280	Catalytic component of the signal peptidase complex (SPC), which catalyzes the cleavage of N-terminal signal sequences of proteins targeted to the endoplasmic reticulum. Signal peptide cleavage occurs during the translocation (cotranslationally or post-translationally) through the translocon pore into the endoplasmic reticulum (By similarity)
+GL50803_9184	B, L	K10751	Chromatin assembly complex protein
+GL50803_16318	S	K02599	WNT inhibitory factor 1
+GL50803_137617	S		VSP with INR
+GL50803_115158	S		regulation of RNA biosynthetic process
+GL50803_137685	O	K07151,K11593	STT3, subunit of the oligosaccharyltransferase complex, homolog
+GL50803_115159	T		phospholipase B domain containing
+GL50803_7552	Y	K14306	Nsp1-like C-terminal region
+GL50803_14480	E	K06653	Ankyrin Repeat
+GL50803_7556	I	K01078,K14395	acid PHOsphatase
+GL50803_14481	S	K18156	EF-hand calcium binding domain 10
+GL50803_7562	S		small GTPase mediated signal transduction
+GL50803_16342		K17785	
+GL50803_16343	S	K03406,K10352	Laminin alpha 1
+GL50803_13075	L	K07466	Replication factor-A protein 1, N-terminal domain
+GL50803_25816	O	K07762,K08647	whole genome shotgun sequence
+GL50803_101278			
+GL50803_16279	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_4017	S	K19752	motile cilium assembly
+GL50803_95003	T	K05661,K08857,K08863,K15503	NIMA-related kinase
+GL50803_14101	E	K09257,K18410	Ankyrin Repeat
+GL50803_14100	M		Ankyrin Repeat Protein
+GL50803_16283	E	K14995	Solute carrier family 38 member
+GL50803_14098	A	K14776	ATPdependent RNA helicase
+GL50803_40496	Z	K10408	heavy chain
+GL50803_101291	Z	K07375	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_16766	J	K04567	lysyl-trna synthetase
+GL50803_137684	S		Ankyrin Repeat
+GL50803_16765	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_6211	J	K14774	Digestive organ expansion factor homolog (Zebrafish)
+GL50803_137672	S		VSP with INR
+GL50803_136020	Z	K07375	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_15832	E	K01270	Clan MH, family M20, peptidase T-like metallopeptidase
+GL50803_136021	Z	K07375	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_16768			
+GL50803_21082	I	K15013	Acyl-CoA synthetase long-chain family member
+GL50803_50116	S		FU
+GL50803_1908	M		Zinc finger, DHHC-type containing
+GL50803_13809	S		Testis expressed 9
+GL50803_5013	S		methyltransferase like 13
+GL50803_5010	T	K04382	serine threonine-protein phosphatase
+GL50803_16479	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_21444	U		Uso1 / p115 like vesicle tethering protein, head region
+GL50803_2419	S	K10732	DNA replication complex GINS protein
+GL50803_2421	T		receptor-like protein kinase
+GL50803_16483	H	K00859	Dephospho-CoA kinase
+GL50803_4946	O	K07304	methionine sulfoxide reductase
+GL50803_111732	S		VSP with INR
+GL50803_113531	S	K02599	WNT inhibitory factor 1
+GL50803_5144	T	K00870,K04427	protein kinase kinase kinase
+GL50803_5142	T	K08867,K14242	mitogen-activated protein kinase kinase kinase
+GL50803_7760	O	K12160	smt3 suppressor of mif two 3 homolog
+GL50803_90665	S		Mediates binding to human platelets, possibly through a receptor-ligand interaction. Probably associated with virulence in endovascular infection (By similarity)
+GL50803_14534	B		Inherit from KOG: Apoptotic chromatin condensation inducer 1
+GL50803_7766	J	K02998	Required for the assembly and or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA- precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits
+GL50803_14539	S		Ankyrin Repeat
+GL50803_16716	S		FU
+GL50803_16717	S		START domain
+GL50803_16718	A	K11884	Rna-binding protein
+GL50803_98056	J	K02880	60s ribosomal protein
+GL50803_15026	A	K14549	UTP15, U3 small nucleolar ribonucleoprotein, homolog (S. cerevisiae)
+GL50803_9741	E, J	K06158,K06185	elongation factor 3
+GL50803_25238	T	K02599	EGF-like domain
+GL50803_16720	S	K19756	cilium axoneme assembly
+GL50803_15030	S	K20032	ankyrin repeat domain
+GL50803_9750	Z	K10352	myosin, heavy chain 14, non-muscle
+GL50803_9751	O		Inherit from euNOG: chaperone protein DNAJ
+GL50803_16721	S	K02583	TNFR/NGFR cysteine-rich region
+GL50803_42000	S		Inherit from NOG: WD repeat domain 52
+GL50803_6731	T	K08863	NIMA-related kinase
+GL50803_6733	M		Zinc finger, DHHC-type containing
+GL50803_6735	U	K16578	cytoplasmic linker associated protein
+GL50803_14285	C	K00027,K00029	Malic enzyme
+GL50803_88888	S		serine arginine repetitive matrix 5
+GL50803_6744	T	K10840,K16465	centrin, EF-hand protein
+GL50803_16648	S		Inherit from euNOG: membrane associated protein
+GL50803_1345	J	K02865,K04532	ribosomal protein
+GL50803_32531	A	K12834	PHD finger protein 5A
+GL50803_6524	O	K10578,K14965	ubiquitin-conjugating enzyme
+GL50803_16650	Z	K10395	Kinesin family member
+GL50803_6530	E	K06653,K09257,K14508,K19626	Ankyrin Repeat
+GL50803_6531	J	K00773	Exchanges the guanine residue with 7-aminomethyl-7- deazaguanine in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr). After this exchange, a cyclopentendiol moiety is attached to the 7-aminomethyl group of 7-deazaguanine, resulting in the hypermodified nucleoside queuosine (Q) (7-(((4,5-cis- dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine) (By similarity)
+GL50803_14238	S		Ankyrin Repeat
+GL50803_16652	J	K02953	ribosomal protein s13
+GL50803_13897	J	K07575	malignant T cell amplified sequence 1
+GL50803_16653	V		Zinc finger, FYVE domain containing
+GL50803_5345	V	K03327	Mate efflux family protein
+GL50803_5346	S		forebrain astrocyte differentiation
+GL50803_5347	K	K09420	Myblike DNAbinding domain containing protein
+GL50803_16810	L	K03511	DNA polymerase kappa
+GL50803_2527	Z	K10352,K17751	myosin, heavy chain
+GL50803_16811	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_16814			
+GL50803_16815	S	K12386	PQ loop repeat
+GL50803_16817	D	K13730	neuromuscular junction development
+GL50803_16818	S	K06316,K16458	centrosomal protein 104kDa
+GL50803_6288	O	K10685,K11293	ubiquitin-like modifier activating enzyme 2
+GL50803_6289	O		Redoxin domain protein
+GL50803_16819	T	K05661,K08857,K10645,K15503	NIMA-related kinase
+GL50803_16820	E	K10645	Ankyrin Repeat
+GL50803_3063			
+GL50803_21048	S		chromosome X open reading frame 22
+GL50803_13616	S	K14788	Nucleolar protein
+GL50803_113038	S	K06252	WNT inhibitory factor 1
+GL50803_16042	A	K14806	ATPdependent RNA helicase
+GL50803_14993	G	K00850,K00895,K01412	Phosphofructokinase
+GL50803_9594	S	K09560	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein)
+GL50803_9593	S	K17302	coatomer protein complex, subunit beta 2 (beta prime)
+GL50803_137681	O	K07762,K08647	whole genome shotgun sequence
+GL50803_16064	J	K00974	TRNA nucleotidyltransferase
+GL50803_6942			
+GL50803_21110	S		chromosome 4 open reading frame 22
+GL50803_14329	J	K02993,K02997,K11592	ribosomal protein S7
+GL50803_6939	Z	K11143	Dynein, axonemal, intermediate chain 2
+GL50803_16065	O		cell division cycle protein 48
+GL50803_14328	S		PIH1 domain containing 3
+GL50803_14327	A	K01158,K14850	ribosomal RNA processing 8, methyltransferase, homolog (yeast)
+GL50803_14326	S	K16605	tubulin polyglutamylase complex subunit 2
+GL50803_18713	A	K12621	Small nuclear ribonucleoprotein (LSM2)
+GL50803_21116	T	K19603	mitogen-activated protein kinase 15
+GL50803_9355	O		Redoxin domain protein
+GL50803_9354	M		Ankyrin Repeat Protein
+GL50803_9353	G	K01082,K01107	3'(2'), 5'-bisphosphate nucleotidase 1
+GL50803_9352	A	K12854,K18663	small nuclear ribonucleoprotein
+GL50803_21118	I		Acyl-CoA synthetase long-chain family member
+GL50803_9349	S		Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1
+GL50803_9348	J	K01886	Glutaminyl-trna synthetase
+GL50803_137680	O	K01365	cathepsin
+GL50803_50124	O	K07762,K08647	whole genome shotgun sequence
+GL50803_16387	J	K02882	60s ribosomal protein
+GL50803_100845			
+GL50803_31530	H	K01950	NAD synthase
+GL50803_12889	S		chromosome segregation ATPase-like protein
+GL50803_112584	S		VSP with INR
+GL50803_7778	S		Targeting protein for Xklp2 (TPX2)
+GL50803_41512	S		EF-hand domain (C-terminal) containing
+GL50803_14543	G	K10393	LMBR1 domain containing 2
+GL50803_14544			
+GL50803_14545	T	K01090	serine threonine-protein phosphatase
+GL50803_14546	S	K01091,K06019	had-superfamily hydrolase, subfamily ia, variant
+GL50803_14547	E	K01424,K13278	L-asparaginase
+GL50803_7789	U	K07939,K07977	ADP-ribosylation
+GL50803_7792	T		leucine rich repeat
+GL50803_36426	S	K00671,K17257	integrin alpha FG-GAP repeat containing 1
+GL50803_d103944	T	K00870,K04427	protein kinase kinase kinase
+GL50803_113268	S	K02599	WNT inhibitory factor 1
+GL50803_50127	S	K02599	WNT inhibitory factor 1
+GL50803_41401	S		VSP with INR
+GL50803_103944	T	K00870,K04427	protein kinase kinase kinase
+GL50803_7195	E	K00266	Glutamate synthase
+GL50803_7188	S		von Willebrand factor D and EGF
+GL50803_17015	M	K15502	Ankyrin Repeat Protein
+GL50803_17014	E		ATP GTP binding
+GL50803_6175	C		nitroreductase
+GL50803_6177	J	K07565	pre-rRNA processing and 60S ribosome subunit assembly (By similarity)
+GL50803_113252	L	K08735,K08741,K19476	DNA mismatch repair protein
+GL50803_17013	O	K00587	carboxyl methyltransferase
+GL50803_27147	T, U		Inherit from KOG: unc-119 homolog
+GL50803_13661	J	K03246	Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome (By similarity)
+GL50803_17011			
+GL50803_3678	C	K02149,K17260	subunit D
+GL50803_3677	T	K08805,K10645,K13412	calcium-dependent protein kinase
+GL50803_113242	O	K07762,K08647	whole genome shotgun sequence
+GL50803_12800	S		Leucine rich repeat protein
+GL50803_15834	S		Chromosome 21 open reading frame 59
+GL50803_13272	F	K01239,K11273	Inosineuridine preferring nucleoside hydrolase
+GL50803_13273	Z	K10410	Dynein, axonemal, light intermediate chain 1
+GL50803_16234	Z	K10433	microtubule-associated protein 7
+GL50803_16235	T	K07198	serine threonine-protein kinase
+GL50803_19003	J	K02896	Ribosomal protein L24e
+GL50803_14119			
+GL50803_6133	J	K02918	Ribosomal protein L35
+GL50803_6135	J	K02962,K14807	40s ribosomal protein
+GL50803_16237	S	K19754	coiled-coil domain containing 164
+GL50803_6138	U, Y	K14297	Nuclear protein 96
+GL50803_6139	U	K18716	Zinc finger C-x8-C-x5-C-x3-H type (and similar)
+GL50803_6140	T	K01104,K09257	serine threonine-protein kinase
+GL50803_114626	S	K02599	WNT inhibitory factor 1
+GL50803_114623	K		Chromosome 2 open reading frame 18
+GL50803_15004	S		Flavodoxin-like fold
+GL50803_15008	U		High cysteine membrane protein Group 1
+GL50803_15009	C	K05916	Is involved in NO detoxification in an aerobic process, termed nitric oxide dioxygenase (NOD) reaction that utilizes O(2) and NAD(P)H to convert NO to nitrate, which protects the bacterium from various noxious nitrogen compounds. Therefore, plays a central role in the inducible response to nitrosative stress (By similarity)
+GL50803_114617	U		High cysteine membrane protein Group 1
+GL50803_137604	S		regulation of RNA biosynthetic process
+GL50803_27326	L	K02320	DNA polymerase
+GL50803_2116	S	K20027	Zinc finger, DHHC-type containing
+GL50803_16044	J	K02891	Ribosomal protein
+GL50803_60531	K		Chromosome 2 open reading frame 18
+GL50803_21435	S	K15693	RING finger
+GL50803_9143	S		Inherit from NOG: basal body component
+GL50803_9145	L	K10730	DNA helicase
+GL50803_91348	F	K03783	The purine nucleoside phosphorylases catalyze the phosphorolytic breakdown of the N-glycosidic bond in the beta- (deoxy)ribonucleoside molecules, with the formation of the corresponding free purine bases and pentose-1-phosphate (By similarity)
+GL50803_9148	S		outer dense fiber of sperm tails
+GL50803_9155	O		whole genome shotgun sequence
+GL50803_91334	E	K14242	Ankyrin Repeat
+GL50803_17448	K	K03010,K03043,K16252	dna-directed rna polymerase
+GL50803_17449	D, T	K07178	serine threonine-protein kinase rio1
+GL50803_91354	S		whole genome shotgun sequence
+GL50803_112519	E	K06653	Ankyrin Repeat
+GL50803_112518	T		p21 protein (Cdc42 Rac)-activated kinase
+GL50803_102444	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17451	C	K03954,K10353	NADH dehydrogenase (Ubiquinone) 1 alpha subcomplex
+GL50803_2323	J	K03256	tRNA methyltransferase 6 homolog (S. cerevisiae)
+GL50803_21423	U	K12392	Adaptor-related protein complex
+GL50803_13200	A		Pre-mRNA-splicing factor ATP-dependent RNA helicase
+GL50803_32658	P	K01537,K05850	ATPase, Ca transporting, plasma membrane
+GL50803_102438	P		ATPase, Ca transporting, plasma membrane
+GL50803_9162	K	K15731,K17616	CTD (Carboxy-terminal domain, RNA polymerase II, polypeptide A) small
+GL50803_137698	U	K14004	Component of the coat protein complex II (COPII) which promotes the formation of transport vesicles from the endoplasmic reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules. It also functions as a component of the nuclear pore complex (NPC). NPC components, collectively referred to as nucleoporins (NUPs), can play the role of both NPC structural components and of docking or interaction partners for transiently associated nuclear transport factors. Sec-13 is required for efficient mRNA export from the nucleus to the cytoplasm and for correct nuclear pore biogenesis and distribution (By similarity)
+GL50803_97130	T	K08863,K09257	NIMA-related kinase
+GL50803_17460	J	K03267	eukaryotic peptide chain release factor gtp-binding subunit
+GL50803_13771	M	K03646,K03832	TonB family
+GL50803_21411	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_15239	B, D	K06268,K06676	Regulatory subunit of the condensin complex, a complex required for conversion of interphase chromatin into mitotic-like condense chromosomes. The condensin complex probably introduces positive supercoils into relaxed DNA in the presence of type I topoisomerases and converts nicked DNA into positive knotted forms in the presence of type II topoisomerases (By similarity)
+GL50803_137697	S		regulation of RNA biosynthetic process
+GL50803_97219	A	K14563	rRNA 2'-O-methyltransferase fibrillarin
+GL50803_17465	D	K06675	structural maintenance of chromosomes protein
+GL50803_15232	E	K10645	Ankyrin Repeat
+GL50803_32375	S		Inherit from NOG: WD repeat domain 67
+GL50803_10530	C	K02155,K04345,K15542	16 kDa proteolipid subunit
+GL50803_10529	S	K16531	Bardet-biedl syndrome 4
+GL50803_29227	S		whole genome shotgun sequence
+GL50803_10522	S		whole genome shotgun sequence
+GL50803_10521	J	K01887	Arginyl-trna synthetase
+GL50803_30476	I	K01897	Acyl-CoA synthetase long-chain family member
+GL50803_2082	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_26199	S		forebrain astrocyte differentiation
+GL50803_8565	U		Inherit from KOG: Yip1 domain family member
+GL50803_8564	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_8559	C	K02155,K04345,K15542	16 kDa proteolipid subunit
+GL50803_14730	B, K	K02976,K11251,K15212,K15260,K15261,K18470	family member
+GL50803_8556	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_5534	S		copine family
+GL50803_5533	O	K11855	ubiquitin carboxyl-terminal hydrolase
+GL50803_17472	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_2947	S		Chitin binding Peritrophin-A domain
+GL50803_13194	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_13156	J		ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome. In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon
+GL50803_102023	M		Ankyrin Repeat Protein
+GL50803_24590	M		Ankyrin Repeat Protein
+GL50803_91127	L	K03424	TatD related DNase
+GL50803_15587	T		serine threonine-protein kinase
+GL50803_16915	S		ANK
+GL50803_12139	S		Ankyrin Repeat
+GL50803_16914	O	K06694,K20032	Ankyrin Repeat Protein
+GL50803_137696	T		calcium-dependent protein kinase
+GL50803_41626			
+GL50803_137676	T	K10645	Neurofibromin 1
+GL50803_114797	E	K09257	Ankyrin Repeat
+GL50803_36315	V	K14165,K14819	Dual specificity phosphatase
+GL50803_15581	S	K11684,K14830,K18272	PAK1 interacting protein 1
+GL50803_12116	S		Pfam:LACT
+GL50803_21792	O		RING
+GL50803_114793			
+GL50803_4959	T	K05661,K08857,K14242,K15503	NIMA-related kinase
+GL50803_13787	S	K00670,K03789	N-alpha-acetyltransferase 30, NatC catalytic subunit
+GL50803_4964	I	K00869,K15633	mevalonate kinase
+GL50803_21799	E	K10645	Ankyrin Repeat
+GL50803_15104	U	K12479	Sec1 family
+GL50803_114787	U	K17091	annexin A1
+GL50803_10055	K	K03027,K14163	DNA-directed RNA polymerases I and III
+GL50803_17223	O	K19678	intraflagellar transport 80 homolog (Chlamydomonas)
+GL50803_15106	U		Importin
+GL50803_17224	U	K15296	attachment protein
+GL50803_17227	V	K03327	Mate efflux family protein
+GL50803_6757	V	K00698,K01440	pyrazinamidase nicotinamidase
+GL50803_114777	G	K08151,K08153,K08161	resistance protein
+GL50803_112692	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_137673	S		Retrotransposon protein
+GL50803_50143	S		regulation of RNA biosynthetic process
+GL50803_16823	O	K03030	26S proteasome, non-ATPase regulatory subunit
+GL50803_15035	S		Ankyrin Repeat
+GL50803_16824	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_16826	T		protein kinase
+GL50803_15041	P	K06997	Proline synthetase co-transcribed homolog (Bacterial)
+GL50803_15042	A	K14406	cleavage stimulation factor, 3' pre-RNA, subunit 1, 50kDa
+GL50803_16829	D, T, Z	K06268,K12750,K17610	Calcium-binding protein
+GL50803_9778	S	K06682,K07976	GTP-Binding protein
+GL50803_9779	F	K00757	phosphorylase
+GL50803_15046	J	K02898	Ribosomal protein
+GL50803_16830	S		Inherit from NOG: keratin, type II cytoskeletal
+GL50803_101138	Z	K10408	heavy chain
+GL50803_8468	S	K07124	Dehydrogenase
+GL50803_97072	E	K10645	Ankyrin Repeat
+GL50803_12109	I	K13510,K13512	Lysophosphatidylcholine acyltransferase
+GL50803_12108	E	K01754	dehydratase
+GL50803_12102	J	K03233	Elongation factor
+GL50803_15576	E	K06653,K09257,K14508,K19626	Ankyrin Repeat
+GL50803_12095	T	K08863	NIMA-related kinase
+GL50803_12091	V	K07253	Macrophage migration inhibitory factor
+GL50803_15574	O		dipeptidylpeptidase
+GL50803_12089	T	K08860,K16196	ser thr protein kinase
+GL50803_17497	A	K12823,K13178	(RNA) helicase
+GL50803_12082	H	K01011,K01942,K03011,K03523,K03524	Biotin- acetyl-CoA-carboxylase ligase
+GL50803_12081	O	K09667	Tetratricopeptide repeat
+GL50803_12071	D	K03529	Required for chromosome condensation and partitioning (By similarity)
+GL50803_17495	L	K10866	DNA repair protein
+GL50803_15567	U	K07877,K07878,K07976	Ras-related protein
+GL50803_12063	G		glycoside hydrolase family 45 protein
+GL50803_15566	J	K14859	Ribosome biogenesis protein
+GL50803_12057	S	K16569,K16570	Tubulin, gamma complex associated protein
+GL50803_12055	J	K03234,K14536	Elongation factor
+GL50803_15564	O		cathepsin
+GL50803_103454	U		High cysteine membrane protein Group 1
+GL50803_13452	A	K14326	Regulator of nonsense transcripts
+GL50803_13455			
+GL50803_94653	A	K14558	periodic tryptophan protein
+GL50803_13220	L	K14805	atp-dependent rna helicase
+GL50803_94658	Y	K13025,K14015	Nuclear protein localization
+GL50803_32879	L		RecF/RecN/SMC N terminal domain
+GL50803_94662	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_3546	T	K08805,K13412	calcium-dependent protein kinase
+GL50803_17483	O		DNAj (Hsp40) homolog, subfamily B, member
+GL50803_1770	J	K02435,K15456	KTI12 homolog, chromatin associated (S. cerevisiae)
+GL50803_17482	O	K09496	T-complex protein 1 subunit delta
+GL50803_17480	J	K00791	isopentenyltransferase
+GL50803_13914	U	K15445	vacuolar import and degradation protein
+GL50803_21942	E	K00261,K00262	glutamate dehydrogenase
+GL50803_17478	Z	K10408,K10413	heavy chain
+GL50803_11355	E	K10645	Ankyrin Repeat
+GL50803_11359	J	K02987	ribosomal protein S4
+GL50803_15406			
+GL50803_94582	E	K01581	ornithine decarboxylase
+GL50803_11364	T	K13303	ribosomal protein s6 kinase
+GL50803_17476	O	K01341	proprotein convertase subtilisin kexin type
+GL50803_17474	S		Inherit from NOG: doublecortin domain containing 5
+GL50803_135231	B	K08057,K08516,K11252,K11253	histone H3
+GL50803_13225	A	K12845,K14404	zinc finger CCCH-type containing
+GL50803_114440	E		Ankyrin Repeat
+GL50803_21924	B, K	K08805,K13412,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_114442	E	K06653	Ankyrin Repeat
+GL50803_104994	S	K16365	tetratricopeptide repeat domain
+GL50803_60565	T	K06684,K06686,K08282	S_TK_X
+GL50803_7296	A		small nuclear ribonucleoprotein
+GL50803_7287	S	K16365	tetratricopeptide repeat domain
+GL50803_14413	K	K02912,K03007,K11313	Dna-directed RNA
+GL50803_60567	P		Got1/Sft2-like family
+GL50803_16443	T	K11584	Protein phosphatase 2, regulatory subunit B
+GL50803_41942	O		proprotein convertase subtilisin kexin type
+GL50803_60569	T		calcium-dependent protein kinase
+GL50803_16444	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_9259	A	K12849,K12851	PRP38 family
+GL50803_9262	U		Grip
+GL50803_14916	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_9266	L	K03654,K10901	DNA helicase
+GL50803_9270	V	K06639	PHOsphatase
+GL50803_31576	O	K10579,K10687	ubiquitin-conjugating enzyme
+GL50803_9272	S	K16602	Tubulin tyrosine ligase-like family, member
+GL50803_9274	A	K14559	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)
+GL50803_28779	Z	K19750	Cilium-specific protein required for cilia structures (By similarity)
+GL50803_9276	O	K07762,K08647	whole genome shotgun sequence
+GL50803_102813	E		Ankyrin Repeat
+GL50803_40591	S		regulation of RNA biosynthetic process
+GL50803_115202	U		High cysteine membrane protein Group 1
+GL50803_27747	C	K00101,K00326	cytochrome b5 reductase
+GL50803_17249	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_3643	O	K01802,K09568,K09571	Peptidyl-prolyl cis-trans isomerase
+GL50803_17250	M		Ankyrin Repeat Protein
+GL50803_17251	S	K19672	intraflagellar transport 140 homolog (Chlamydomonas)
+GL50803_94478	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_8716	F	K03787	5'-nucleotidase
+GL50803_14764	E	K09257	Ankyrin Repeat
+GL50803_8713	I, O, T	K13806	Lipase (class 3)
+GL50803_14763	L	K14570	RNA exonuclease
+GL50803_8711	M		Zinc finger, DHHC-type containing
+GL50803_8708	J	K03236	Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits (By similarity)
+GL50803_8707	P	K00670,K13177	complex ard1 subunit
+GL50803_17254	G	K01835,K11809,K15779	phosphoglucomutase
+GL50803_8705	J		Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)
+GL50803_4928	S		ring finger and CHY zinc finger
+GL50803_13777	O	K14575	cell division cycle protein 48
+GL50803_94440	Z	K10408,K10413	heavy chain
+GL50803_7309	U	K13216,K13813	syntaxin 12
+GL50803_7306	U	K08516	YKT6 v-SNARE homolog (S. cerevisiae)
+GL50803_21331	O	K03064	26S protease regulatory subunit
+GL50803_13667	A		NACHT domain
+GL50803_4602	S	K07124,K11166	Dehydrogenase
+GL50803_17574	S		conserved hypothetical protein
+GL50803_4606	J	K15437	Aminoacyl tRNA synthetase complex-interacting multifunctional protein 1
+GL50803_21327	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_9541	U	K02332,K10631	trafficking protein particle complex
+GL50803_14978	S		Integral membrane protein DUF92
+GL50803_103943	S	K05635	Laminin, alpha
+GL50803_115232	D		cysteine
+GL50803_2538	T	K08286,K08853	associated kinase
+GL50803_16180	S	K13617,K18159	Demethylates proteins that have been reversibly carboxymethylated (By similarity)
+GL50803_22291	K		Chromosome 2 open reading frame 18
+GL50803_3903	M		Ankyrin Repeat Protein
+GL50803_33030	Y		Component of the cytosolic iron-sulfur (Fe S) protein assembly machinery. Required for maturation of extramitochondrial Fe S proteins (By similarity)
+GL50803_3983	F		5'-nucleotidase
+GL50803_3985	D	K15264	NOP2 Sun domain family member
+GL50803_7680	M		Ankyrin Repeat Protein
+GL50803_7679	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_14510	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_101168	S		Ankyrin repeat protein
+GL50803_34141	O	K10601,K11883	NIN1 RPN12 binding protein 1 homolog (S. cerevisiae)
+GL50803_4405	D	K08866	ttk protein kinase
+GL50803_16507			
+GL50803_16508	T	K05661,K08857,K14242,K15503	NIMA-related kinase
+GL50803_16498	S	K14538	guanine nucleotide binding protein-like 3
+GL50803_16500	S		Inherit from NOG: sperm associated antigen 16
+GL50803_15085	T		thyroid hormone receptor interactor 11
+GL50803_9948	O		Proprotein convertase P-domain
+GL50803_16501	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_d16501	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_60596	O		Proprotein convertase P-domain
+GL50803_96306			
+GL50803_96324	S		Chitin binding Peritrophin-A domain
+GL50803_4538	K	K14965	dpy-30 homolog (C. elegans)
+GL50803_17121	O	K03283,K09490	heat shock protein
+GL50803_6633	H	K00787	farnesyl pyrophosphate
+GL50803_27925	S		ANK
+GL50803_17126	A	K12829	Splicing factor 3b subunit
+GL50803_6455	S		coiled-coil domain containing 113
+GL50803_14208	L	K10846	K10846 DNA excision repair protein ERCC-5
+GL50803_17130	E	K10645	Ankyrin Repeat
+GL50803_6464	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_14212	B	K08057,K08516,K11252,K11253	histone H3
+GL50803_112408	U	K14312	nuclear pore complex protein
+GL50803_17132	Q	K01509,K05031,K05665,K05666,K05668,K05670,K05671,K05672,K05673,K05674,K10827	ATP-binding cassette, sub-family C (CFTR MRP), member
+GL50803_7081	O	K12597	zinc finger, CCHC domain containing 7
+GL50803_7082	J	K02971,K10765	40S ribosomal protein S21
+GL50803_96363	T		Histidine kinase
+GL50803_17146	A	K12598	Superkiller viralicidic activity 2-like
+GL50803_5632	J	K03678	3' exoribonuclease family, domain 2
+GL50803_5631	L	K11136,K11273	regulator of telomere elongation helicase 1
+GL50803_137618	S		VSP with INR
+GL50803_17143	G	K00873	Pyruvate kinase
+GL50803_6497	S	K00784	Zinc phosphodiesterase, which displays some tRNA 3'- processing endonuclease activity. Probably involved in tRNA maturation, by removing a 3'-trailer from precursor tRNA (By similarity)
+GL50803_14225	O	K01341	proprotein convertase subtilisin kexin type
+GL50803_15162	O	K10573,K10574	ubiquitin-conjugating enzyme
+GL50803_10297	S	K14793	ribosomal RNA processing 9, small subunit (SSU) processome component, homolog (yeast)
+GL50803_15164	S	K06883,K19513	GPN-loop GTPase 1
+GL50803_17139	T		S_TKc
+GL50803_112432	S		FU
+GL50803_104250	S		Thioredoxin family
+GL50803_14043	S		regulation of RNA biosynthetic process
+GL50803_14044	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_5857	H	K09680	PaNtothenate Kinase
+GL50803_94927	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_24512	S		Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_16228	O	K09537,K11885,K13215	Nuclear receptor interacting protein
+GL50803_16227	M		Ankyrin Repeat Protein
+GL50803_16225	B	K11126	Telomerase is a ribonucleoprotein enzyme essential for the replication of chromosome termini in most eukaryotes. Active in progenitor and cancer cells. Inactive, or very low activity, in normal somatic cells. Catalytic component of the teleromerase holoenzyme complex whose main activity is the elongation of telomeres by acting as a reverse transcriptase that adds simple sequence repeats to chromosome ends by copying a template sequence within the RNA component of the enzyme. Catalyzes the RNA- dependent extension of 3'-chromosomal termini with the 6- nucleotide telomeric repeat unit, 5'-TTAGGG-3'. The catalytic cycle involves primer binding, primer extension and release of product once the template boundary has been reached or nascent product translocation followed by further extension. More active on substrates containing 2 or 3 telomeric repeats. Telomerase activity is regulated by a number of factors including telomerase complex-associated proteins, chaperones and polypeptide modifiers. Modulates Wnt signaling. Plays important roles in aging and antiapoptosis (By similarity)
+GL50803_16224	Z	K10394,K10398	kinesin family member 11
+GL50803_16223	K	K03018	DNA-directed RNA Polymerase
+GL50803_13393	M		Ankyrin Repeat Protein
+GL50803_3570	J	K02979	40s ribosomal protein
+GL50803_14091	J	K02875,K12867	ribosomal protein L14
+GL50803_6022	J	K02969	Ribosomal protein
+GL50803_16672	S	K20032	Ankyrin Repeat
+GL50803_16806	A		(RNA) helicase
+GL50803_27694	K		C2HC5 finger protein
+GL50803_14089	A		Utp13 specific WD40 associated domain
+GL50803_22003	T	K08857,K14242	Neurofibromin 1
+GL50803_16671	V	K03327	Mate efflux family protein
+GL50803_7154	M		Ankyrin Repeat Protein
+GL50803_16667	C		synthetase
+GL50803_14195	L	K08739,K10858	DNA mismatch repair protein
+GL50803_102455	Z	K10403,K14007	Kinesin family member
+GL50803_16663	S		chromosome 17 open reading frame 105
+GL50803_32933			
+GL50803_113987	S	K05635	Laminin, alpha
+GL50803_14975	T	K05288,K05310	phosphatidylinositol glycan anchor biosynthesis, class G
+GL50803_9529	S	K18932,K20031	Zinc finger, DHHC-type containing 6
+GL50803_9528	S	K00599,K17053	methyltransferase like 6
+GL50803_17578	S	K08857,K15502,K15503	forebrain astrocyte differentiation
+GL50803_89746	J	K01855	tRNA pseudouridine synthase
+GL50803_101699	E	K14242	Ankyrin Repeat
+GL50803_17579	I	K01858	synthase
+GL50803_24860	J	K07562	60S ribosomal export protein
+GL50803_13055	M		Ankyrin Repeat Protein
+GL50803_5305	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_13890	G		Cat eye syndrome chromosome region, candidate 5
+GL50803_60621	E		Ankyrin Repeat
+GL50803_92983	E	K06653	Ankyrin Repeat
+GL50803_113971	J	K11578,K14863,K15456	Component of the NOP7 complex, which is required for maturation of the 25S and 5.8S ribosomal RNAs and formation of the 60S ribosome (By similarity)
+GL50803_113970			
+GL50803_22112	K	K04796,K12622	LSM3 homolog, U6 small nuclear RNA associated (S. cerevisiae)
+GL50803_17583	S		Adenylate cyclase
+GL50803_4164	A	K15429	Specifically methylates the N1 position of guanosine-37 in various cytoplasmic and mitochondrial tRNAs. Methylation is not dependent on the nature of the nucleoside 5' of the target nucleoside. This is the first step in the biosynthesis of wybutosine (yW), a modified base adjacent to the anticodon of tRNAs and required for accurate decoding (By similarity)
+GL50803_4165	S		LRR
+GL50803_17584	A	K14396	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+GL50803_17585	E	K09257	Ankyrin Repeat
+GL50803_17586	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_91252	P	K00327	Component of the sulfite reductase complex that catalyzes the 6-electron reduction of sulfite to sulfide. This is one of several activities required for the biosynthesis of L- cysteine from sulfate. The flavoprotein component catalyzes the electron flow from NADPH - FAD - FMN to the hemoprotein component (By similarity)
+GL50803_17587	F	K01937	ctp synthase
+GL50803_50163	T		Inherit from euNOG: multiple EGF-like-domains
+GL50803_9870	B, K	K08286,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_114937	T	K08857	NIMA-related kinase
+GL50803_15531	S	K14791	periodic tryptophan protein
+GL50803_11930	K	K04706	Protein inhibitor of activated STAT
+GL50803_114930	U		High cysteine membrane protein Group 1
+GL50803_15535	O	K00809,K01190	deoxyhypusine synthase
+GL50803_17591	Z	K11662	ACTIN
+GL50803_15538	J	K03262,K10683	eukaryotic translation initiation factor
+GL50803_11950	J	K01681,K02883,K09056	60S ribosomal protein l18
+GL50803_11953	S	K05236	Coatomer protein complex subunit alpha
+GL50803_60631	A	K14776	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10
+GL50803_114915	O	K01365	cathepsin
+GL50803_50165	O		proprotein convertase subtilisin kexin type
+GL50803_86821	M		Ankyrin Repeat Protein
+GL50803_14566	O	K01275	cathepsin
+GL50803_14568	T	K06269	serine threonine-protein phosphatase
+GL50803_7850	T	K12795	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)
+GL50803_112875			
+GL50803_3746	S		Mediates binding to human platelets, possibly through a receptor-ligand interaction. Probably associated with virulence in endovascular infection (By similarity)
+GL50803_8741	O	K01275	cathepsin
+GL50803_8742	L		Endonuclease I
+GL50803_8745	S		Ankyrin Repeat Protein
+GL50803_112867	O	K07762,K08647	whole genome shotgun sequence
+GL50803_28626			
+GL50803_90131	T	K19613	soc-2 suppressor of clear homolog (C. elegans)
+GL50803_6259	E	K15502	Ankyrin Repeat
+GL50803_6262	Z	K04648,K10392,K10401,K11498	Kinesin family member
+GL50803_23602	S	K14415	Catalytic subunit of the tRNA-splicing ligase complex that acts by directly joining spliced tRNA halves to mature-sized tRNAs by incorporating the precursor-derived splice junction phosphate into the mature tRNA as a canonical 3',5'- phosphodiester. May act as a RNA ligase with broad substrate specificity, and may function toward other RNAs (By similarity)
+GL50803_102101	Z	K04648,K10392,K10401,K11498	Kinesin family member
+GL50803_14934	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_9368	O	K04069	activating enzyme
+GL50803_9365	T		mitogen-activated protein kinase kinase kinase
+GL50803_20195	F	K01243,K18284	Catalyzes the irreversible cleavage of the glycosidic bond in both 5'-methylthioadenosine (MTA) and S- adenosylhomocysteine (SAH AdoHcy) to adenine and the corresponding thioribose, 5'-methylthioribose and S-ribosylhomocysteine, respectively (By similarity)
+GL50803_102108	U	K04646,K12620	clathrin heavy chain
+GL50803_112846	Z	K04648,K10392,K10401,K11498	Kinesin family member
+GL50803_14963	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_102110	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_9493	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_9492	S	K12472	Component of the spindle pole body (SPB) required for the proper execution of spindle pole body (SPB) duplication. Potential role in cross-linking filaments or anchoring other molecules. It is essential for growth (By similarity)
+GL50803_91295	E	K14997	transmembrane amino acid transporter protein
+GL50803_9489	U	K08517	SEC22 vesicle trafficking protein homolog
+GL50803_9487	T	K00871,K00924,K08286	Serine Threonine protein kinase
+GL50803_17073	D		serine threonine-protein kinase
+GL50803_3868	S		Component of the spindle pole body (SPB) required for the proper execution of spindle pole body (SPB) duplication. Potential role in cross-linking filaments or anchoring other molecules. It is essential for growth (By similarity)
+GL50803_3869	U	K08489	Syntaxin 16
+GL50803_17074			
+GL50803_2523			
+GL50803_17075	S		AHNAK nucleoprotein
+GL50803_2305			
+GL50803_39843	P		Copper-transporting ATPase
+GL50803_33592	S		WD domain, G-beta repeat
+GL50803_91324	V	K14772	HEAT repeat protein
+GL50803_13360	M	K17593	Ankyrin Repeat Protein
+GL50803_112831	O	K01365	cathepsin
+GL50803_17212	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_50169	O	K07762,K08647	whole genome shotgun sequence
+GL50803_2925	O	K12462	Rho GDP dissociation inhibitor (GDI)
+GL50803_17214	E	K14993,K14994	Solute carrier family 38 member
+GL50803_32911	M		Ankyrin Repeat Protein
+GL50803_86855	M		Ankyrin Repeat Protein
+GL50803_15193			
+GL50803_17216	T		Neurofibromin 1
+GL50803_10382	S	K16603	Tubulin tyrosine ligase-like family, member
+GL50803_15190	L	K03165	DNA topoisomerase
+GL50803_10374	B, K		ankyrin repeat, family A (RFXANK-like), 2
+GL50803_15187	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_10370	S		atp gtp binding protein
+GL50803_15184	M	K17593	Ankyrin Repeat Protein
+GL50803_10367	J	K01008,K02974	40S ribosomal protein S24
+GL50803_5188	M		Ankyrin Repeat Protein
+GL50803_17219	E	K10645	Ankyrin Repeat
+GL50803_7616	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_7615	L	K03165,K03168	DNA Topoisomerase
+GL50803_14498	S	K16599	Tubulin tyrosine ligase-like family, member
+GL50803_7610	S		expressed protein
+GL50803_14497	O	K02728	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_7608	S	K04308,K04309,K08399	LRR_TYP
+GL50803_60647	S		TNFR
+GL50803_d103992	O	K07762,K08647	whole genome shotgun sequence
+GL50803_103992	O	K07762,K08647	whole genome shotgun sequence
+GL50803_3209	O	K02734	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_13288	S		coiled-coil domain containing 151
+GL50803_16773	U	K15300	Syntaxin binding protein 2
+GL50803_2486	F	K01485,K11991,K12951,K15441	deaminase
+GL50803_16774	Z	K18626	Intermediate filament-associated protein that associates in regular arrays with keratin intermediate filaments (KIF) of the inner root sheath cells of the hair follicle and the granular layer of the epidermis. It later becomes cross-linked to KIF by isodipeptide bonds. It may serve as scaffold protein, together with involucrin, in the organization of the cell envelope or even anchor the cell envelope to the KIF network. It may be involved in its own calcium-dependent postsynthetic processing during terminal differentiation
+GL50803_2825	A	K12845	NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae)
+GL50803_103935	L	K01288,K10873,K10959	Dna repair
+GL50803_2897	O		Proprotein convertase P-domain
+GL50803_16570	T	K04348	serine threonine-protein phosphatase
+GL50803_16569	B, K	K11414,K13206	NAD-dependent protein deacetylase which modulates the activities of several enzymes which are inactive in their acetylated form (By similarity)
+GL50803_29304	O	K01363	tubulointerstitial nephritis
+GL50803_10755	A	K12826	Splicing factor 3A subunit
+GL50803_10756	E, G	K15287	solute carrier family 35 member
+GL50803_15279	L	K03166,K10878	SPO11 meiotic protein covalently bound to DSB homolog (S. cerevisiae)
+GL50803_15280	S	K00784,K15445	tRNA methyltransferase 10 homolog
+GL50803_10765	L	K02210	dna replication licensing factor
+GL50803_16568	K	K15979,K18405	Tudor domain containing
+GL50803_29307	G	K00963,K01835,K02987,K17260,K17491	UTP-glucose-1-phosphate uridylyltransferase
+GL50803_10775	L	K02328	dna polymerase delta
+GL50803_10778	S		Peroxidase
+GL50803_16567	T	K03456	HEAT repeat
+GL50803_10780	J	K02978	40s ribosomal protein S27
+GL50803_15284	S		Membrane
+GL50803_10783	V	K01011	sulfurtransferase
+GL50803_114042	U		High cysteine membrane protein Group 1
+GL50803_3419	S		Inherit from NOG: AlNc14C359G10973
+GL50803_3417	D		MOB family member 4, phocein
+GL50803_91911	J	K03239	Translation initiation factor
+GL50803_3589	J	K06134,K14561,K14820	ribosome biogenesis protein brx1
+GL50803_91919	O	K09493	t-complex protein 1 subunit
+GL50803_16998	S		Coiled-coil domain containing 151
+GL50803_17000	O	K03768	PPIases accelerate the folding of proteins (By similarity)
+GL50803_60667	O	K10591,K13305	neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase
+GL50803_17003	S		Zinc finger protein
+GL50803_13438	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_3762	M		Ankyrin Repeat Protein
+GL50803_3760	M		Ankyrin Repeat Protein
+GL50803_32838	O	K07400	Nitrogen-fixing NifU domain protein
+GL50803_5375	T	K08286,K08857	NimA-related protein kinase
+GL50803_5374	O	K14835,K17262	tubulin folding cofactor B
+GL50803_137606	S		VSP with INR
+GL50803_10552			
+GL50803_28657			
+GL50803_8883			
+GL50803_16558	T	K00888	Phosphatidylinositol 4kinase
+GL50803_8886	Z	K10405	Kinesin family member
+GL50803_14796		K17785	
+GL50803_8892	A	K14557	rRNA processing protein Utp6
+GL50803_86933	G	K05283	GPI anchor biosynthetic process
+GL50803_86934	T	K04373,K07376	ribosomal protein s6 kinase
+GL50803_112008	E	K09257	Ankyrin Repeat
+GL50803_50181	O	K07762,K08647	whole genome shotgun sequence
+GL50803_10429	S	K01262,K07050,K15730	Prostaglandin E synthase 3 (Cytosolic)
+GL50803_10428	J	K02866	Ribosomal protein
+GL50803_10423	O		AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (Yeast)
+GL50803_4044	O	K06030	RING finger ubiquitin ligase
+GL50803_4043	I		Nuclear export mediator factor
+GL50803_100969			
+GL50803_5866	S		Membrane
+GL50803_5867	J	K01883	cysteinyltRNA synthetase
+GL50803_14047	T, W		EGF-like domain
+GL50803_5871	T	K06944	developmentally regulated GTP binding protein 2
+GL50803_14048	Z	K10436	microtubule-associated protein RP EB family member
+GL50803_14049	J	K02912,K07759,K17822	ribosomal protein L32'
+GL50803_11311	T	K08286,K08857	NimA-related protein kinase
+GL50803_16516	T	K14514	Xenotropic and polytropic retrovirus receptor 1
+GL50803_11309	O	K07762,K08647	whole genome shotgun sequence
+GL50803_15392	L	K10754	replication factor c
+GL50803_36069	J	K02915	Ribosomal protein
+GL50803_29487	O		Protein disulfide isomerase
+GL50803_11301	F	K00940	nucleoside diphosphate kinase
+GL50803_11299	S		Transmembrane amino acid transporter protein
+GL50803_11290	T	K02202,K08817,K10267	Cyclin-Dependent Kinase
+GL50803_16512	L	K10843	Dna repair helicase
+GL50803_11287	A	K12845	NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae)
+GL50803_15386	S	K15529	appr-1-p processing domain protein
+GL50803_40016	S		Ankyrin Repeat
+GL50803_40014	M		Ankyrin Repeat Protein
+GL50803_90343	T	K08867	WNK lysine deficient protein kinase
+GL50803_4156	T	K01518,K02503,K03099	histidine triad nucleotide binding protein
+GL50803_4155	K	K03023	DNA-directed RNA polymerase III subunit RPC3-like
+GL50803_13550	T	K16733	Rac GTPase activating protein 1
+GL50803_4149	C	K02145	Vacuolar membrane ATPase subunit a
+GL50803_24537			
+GL50803_40005	M	K10329	Ankyrin Repeat Protein
+GL50803_101307	T	K04373,K07376	ribosomal protein s6 kinase
+GL50803_16371	H	K06210,K06943,K11269	Involved in the biogenesis of the 60S ribosomal subunit (By similarity)
+GL50803_13735	S		Ankyrin Repeat
+GL50803_16370	L	K11665	chromatin modification
+GL50803_14573	S	K06252	WNT inhibitory factor 1
+GL50803_7865	E	K01424,K13278	L-asparaginase
+GL50803_16368	J	K02910	ribosomal protein
+GL50803_33685	U		ARM
+GL50803_7870	J	K02893	Ribosomal protein
+GL50803_7871	C	K01512	Acylphosphatase (EC 3.6.1.7)
+GL50803_7874	Z	K10394	Kinesin family member
+GL50803_7875	S		PARK2 co-regulated
+GL50803_7878	J	K02955	Ribosomal protein S14
+GL50803_16367			
+GL50803_d101307	T	K04373,K07376	ribosomal protein s6 kinase
+GL50803_9548	O	K01365	cathepsin
+GL50803_16380	O		cathepsin
+GL50803_14983	O		cathepsin
+GL50803_9558	S	K07874,K07910	member RAS oncogene family
+GL50803_14984			
+GL50803_87022	A	K12854,K18663,K18664	helicase
+GL50803_8682	G	K00036,K01057,K13937,K15361	glucose-6-phosphate 1-dehydrogenase
+GL50803_14759	G	K00033	Catalyzes the oxidative decarboxylation of 6- phosphogluconate to ribulose 5-phosphate and CO(2), with concomitant reduction of NADP to NADPH (By similarity)
+GL50803_8687	S	K06252	WNT inhibitory factor 1
+GL50803_8691	J	K07442	tRNA methyltransferase 61 homolog
+GL50803_96460	J	K01872	alanyl-tRNA synthetase
+GL50803_137609	K	K03013	Dna-directed RNA
+GL50803_137608	S		regulation of RNA biosynthetic process
+GL50803_16660	S	K16474	Intraflagellar transport 88 homolog (Chlamydomonas)
+GL50803_9922	L	K10746	Exonuclease
+GL50803_16659	O	K03036	26S Proteasome non-ATPase regulatory subunit
+GL50803_15078	E	K01872,K07050	alanyl-tRNA synthetase domain containing 1
+GL50803_9912	J	K18758	DIS3 mitotic control homolog (S
+GL50803_9909	G	K01006,K01007	pyruvate phosphate dikinase (EC 2.7.9.1)
+GL50803_15077	Q	K14553,K16329,K16330	IdgA domain protein
+GL50803_16658	A		ribosomal RNA processing 1 homolog B (S. cerevisiae)
+GL50803_9899	J	K15026	Eukaryotic translation initiation factor eIF2A
+GL50803_9894	A	K11583	Protein phosphatase 2, regulatory subunit B
+GL50803_23756	K	K09391	E2F transcription factor
+GL50803_31309	T		serine threonineprotein phosphatase
+GL50803_5812	S		VSP with INR
+GL50803_5811	T	K07179	serine threonine-protein kinase
+GL50803_16110	A	K15463	tRNA A64-2'-O-ribosylphosphate transferase
+GL50803_16111	J	K12595,K14416	elongation Factor
+GL50803_113357	O	K07762,K08647	whole genome shotgun sequence
+GL50803_91198	U	K12394	adaptor-related protein complex 1 sigma
+GL50803_2622	E		MORN repeat containing
+GL50803_21527			
+GL50803_16406	O	K09506	DnaJ (Hsp40) homolog, subfamily C, member 21
+GL50803_113365	D, L	K12618,K12619	5-3 exoribonuclease 1
+GL50803_100959	S		Putative methyltransferase
+GL50803_6404	Z	K03678,K10397	Kinesin family member
+GL50803_16407	M		Ankyrin Repeat Protein
+GL50803_91220	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_100955	D	K02537	mitotic spindle
+GL50803_60727	S	K17878	nicotinamide n-methyltransferase
+GL50803_16411	T	K02183	Calcium binding protein
+GL50803_16412	O		heat shock
+GL50803_137620	S		VSP with INR
+GL50803_10358	C		Type A flavoprotein
+GL50803_10361	O	K07767	katanin p60
+GL50803_13791	A	K13181,K14807	ATPdependent RNA helicase
+GL50803_17438	L	K10901	DNA helicase
+GL50803_3636	S		Transmembrane protein 222
+GL50803_102248	S		Coiled-coil domain containing 146
+GL50803_17435			
+GL50803_221692	T	K06276,K08286	serine threonine-protein kinase
+GL50803_4079	T	K04354	protein phosphatase 2, regulatory subunit B
+GL50803_41927	U	K07934	RAB35, member RAS oncogene family
+GL50803_4083	O	K10686,K12462	activating enzyme
+GL50803_4084	S	K01870	HORMA domain containing
+GL50803_17432	O	K01883	heat shock
+GL50803_2972	C	K00101,K00326	cytochrome b5 reductase
+GL50803_13204	P	K14688,K14689,K14697	solute carrier family 30 (zinc transporter), member 1
+GL50803_2970	J	K03242	eukaryotic translation initiation factor 2
+GL50803_2969	O	K00921	fructosamine 3 kinase
+GL50803_15267	O	K05290,K09250	phosphatidylinositol glycan anchor biosynthesis, class K
+GL50803_15269	V		Mate efflux family protein
+GL50803_15270	O	K04523	ubiquilin 3
+GL50803_102263	I		acyl-CoA-binding domain-containing protein
+GL50803_10703	O		RING
+GL50803_10705	U		Uso1 / p115 like vesicle tethering protein, head region
+GL50803_10707	B, K	K11121,K11411	NAD-dependent lysine demalonylase and desuccinylase that specifically removes malonyl and succinyl groups on target proteins. Has weak NAD-dependent protein deacetylase activity
+GL50803_10708	B, K	K11121,K11412	DeAcetylase
+GL50803_17430	E		suppressor of Ty 16 homolog (S. cerevisiae)
+GL50803_10711	G, T	K17615	serine threonine-protein phosphatase
+GL50803_17429	S	K16569,K16573	Tubulin, gamma complex associated protein 2
+GL50803_37421	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_6835	J	K14847	ribosome production factor 2 homolog
+GL50803_14299	J		Endoribonuclease L-PSP
+GL50803_221693	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_6812	S		Tctex1 domain containing
+GL50803_17427	I	K17103	CDP-alcohol phosphatidyltransferase
+GL50803_17426	S		LPXTG-motif cell wall anchor domain protein
+GL50803_24111	S	K17584	PDX1 C-terminal inhibiting factor 1
+GL50803_1894	S	K14769	U3 small nucleolar RNA-associated protein
+GL50803_10148	M	K00091	Hopanoid-associated sugar epimerase
+GL50803_29078	S		Aminotransferase class IV
+GL50803_15127	F	K01619	deoxyribose-phosphate aldolase
+GL50803_10145	O, Z		Cofactor D
+GL50803_15126	S	K13989	Derlin 1
+GL50803_90767	D	K02365	extra spindle pole bodies homolog 1 (S. cerevisiae)
+GL50803_15124	S	K10419	dynein, light chain
+GL50803_10137	Z	K10397	Kinesin family member
+GL50803_17421	S	K17299	ankyrin repeat domain
+GL50803_3349	B	K10802,K11295,K11296	high mobility group
+GL50803_17420	O	K01409	O-sialoglycoprotein endopeptidase
+GL50803_24122	Z		IG
+GL50803_4181	S		Sulfite exporter TauE/SafE
+GL50803_17417	T	K08825,K18669	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase
+GL50803_24123	T		calcium-dependent protein kinase
+GL50803_24126	U	K15445	vacuolar import and degradation protein
+GL50803_9413	O	K01829,K08056,K09580,K13996	Protein disulfide isomerase
+GL50803_9421	S		forebrain astrocyte differentiation
+GL50803_9422	D		Cyclin-Dependent Kinase
+GL50803_15456	S	K17299	ankyrin repeat domain
+GL50803_15455	S		PARK2 co-regulated
+GL50803_42442	O	K13525,K14571,K14575	Ribosome biogenesis ATPase
+GL50803_15451	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_15450	S		WNT inhibitory factor 1
+GL50803_38517			
+GL50803_15442	S		kiaa1279
+GL50803_11599	I	K01078,K14395	acid PHOsphatase
+GL50803_24133	A	K12619	5'-3' exoribonuclease
+GL50803_11595	G	K18819	glycogenin
+GL50803_16805	L	K02543,K06640	Ataxia telangiectasia and rad3 related
+GL50803_23064	L	K02148,K02324	DNA polymerase
+GL50803_106320	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_d17353	S	K08266	MTOR associated protein, LST8 homolog (S. cerevisiae)
+GL50803_115479	M		Ankyrin Repeat Protein
+GL50803_14109	S	K06883	GPNloop GTPase 2
+GL50803_6082	Z	K04648,K10392,K11498	kinesin K39
+GL50803_6081	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_2562	U	K14005	Component of the coat protein complex II (COPII) which promotes the formation of transport vesicles from the endoplasmic reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules
+GL50803_20551	O		F5 8 type C domain containing protein
+GL50803_115478	M		Ankyrin Repeat Protein
+GL50803_17353	S	K08266	MTOR associated protein, LST8 homolog (S. cerevisiae)
+GL50803_103659	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_4812	S		Inherit from euNOG: Sf-assemblin
+GL50803_33787	V		Mate efflux family protein
+GL50803_14493	L	K10865	double-strand break repair protein
+GL50803_7599	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_7598	U		glycolipid transport
+GL50803_24139	S	K12472	Component of the spindle pole body (SPB) required for the proper execution of spindle pole body (SPB) duplication. Potential role in cross-linking filaments or anchoring other molecules. It is essential for growth (By similarity)
+GL50803_5248	K	K09420,K09425	Myblike DNAbinding domain containing protein
+GL50803_5249	T	K16358,K16666	leucine rich repeat
+GL50803_13875	I, U	K01104,K18081	Myotubularin related protein
+GL50803_13876	K	K06666	wd repeat
+GL50803_17364	J	K02976	Ribosomal protein s26
+GL50803_17366	H	K00275,K17759	Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S- specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX (By similarity)
+GL50803_17368	T	K06228	Serine threonine kinase
+GL50803_114162	O	K07762,K08647	whole genome shotgun sequence
+GL50803_d40995	W	K16768,K19681	Intraflagellar transport 52 homolog (Chlamydomonas)
+GL50803_15606	S		Tctex1 domain containing
+GL50803_12240	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_15604	O	K03029	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 4
+GL50803_12235	J	K00555	tRNA methyltransferase
+GL50803_12223	T	K08286,K08853	associated kinase
+GL50803_12220	H		Halo-acid dehalogenase-like hydrolase
+GL50803_12217	S	K03529	Viral A-type inclusion protein
+GL50803_12216	C	K02147	ATPase, H transporting, lysosomal 56 58kDa, V1 subunit
+GL50803_12215	D	K14317,K16219,K19579	o-methyltransferase
+GL50803_15599	S		Transmembrane protein 208
+GL50803_15598	C	K02155,K03661	ATPase, H transporting, lysosomal 21kDa, V0 subunit b
+GL50803_41258	Z	K04648,K10392,K11498	kinesin K39
+GL50803_21897		K07605	
+GL50803_88369	M		Ankyrin Repeat Protein
+GL50803_4383	M		Ankyrin Repeat Protein
+GL50803_17552	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17551	E	K14242	Ankyrin Repeat
+GL50803_14254	S		ANK
+GL50803_6602	M		Ankyrin Repeat Protein
+GL50803_60783	S		Ankyrin repeat protein
+GL50803_14252	T		coiled-coil domain containing 88C
+GL50803_17550	S		Essential component of the cytosolic iron-sulfur (Fe S) protein assembly machinery. Required for the maturation of extramitochondrial Fe S proteins (By similarity)
+GL50803_102647	P	K05742,K12040,K12041	Sodium hydrogen exchanger
+GL50803_113021	E, I	K01958,K01963	Component of the acetyl coenzyme A carboxylase (ACC) complex. Biotin carboxylase (BC) catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the transcarboxylase to acetyl-CoA to form malonyl- CoA (By similarity)
+GL50803_13756	O	K02735	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_16188	D	K06636	structural maintenance of chromosomes protein
+GL50803_15228	J	K02957,K07901,K10626	Ribosomal protein
+GL50803_10516	S	K15451,K18203	leucine carboxyl methyltransferase
+GL50803_42184	S	K18932,K20031	Zinc finger, DHHC-type containing 6
+GL50803_113024			
+GL50803_50221	U		High cysteine membrane protein Group 1
+GL50803_113030	E	K10645	Ankyrin Repeat
+GL50803_d50221	U		High cysteine membrane protein Group 1
+GL50803_50225			
+GL50803_40995	W	K16768,K19681	Intraflagellar transport 52 homolog (Chlamydomonas)
+GL50803_17371	S		Tctex1 domain containing
+GL50803_13007	S	K14816	Zinc finger protein
+GL50803_93671	D, K, T	K03115	casein kinase ii
+GL50803_14093	S	K16075	corA-like Mg2 transporter domain-containing protein
+GL50803_6035	M		Ankyrin Repeat Protein
+GL50803_14095	L	K10755	replication factor c
+GL50803_112978	B, K	K01509,K11367,K11642,K11654,K20091	Chromodomain helicase DNA binding protein
+GL50803_5294	B	K00162,K14799	TSR1, 20S rRNA accumulation, homolog (S. cerevisiae)
+GL50803_13889	D	K01868,K06287,K08301	MAF-like protein
+GL50803_17379	M		Ankyrin Repeat Protein
+GL50803_17380	U		High cysteine membrane protein Group 1
+GL50803_4532	O	K06005,K06009	protease
+GL50803_104087	S		EGF_like
+GL50803_20593	S		TM2 domain
+GL50803_12770	S		START domain
+GL50803_21321	S		FU
+GL50803_5744	U	K10956	protein transport protein sec61
+GL50803_15983	J	K01881	synthetase
+GL50803_5746	S		Pfam:LACT
+GL50803_15984	E		Impact homolog (mouse)
+GL50803_50229	S		VSP with INR
+GL50803_d50229	S		VSP with INR
+GL50803_93551	O	K06972	Presequence protease
+GL50803_14019	O		cathepsin
+GL50803_14017	S		basal body component
+GL50803_16246	G	K00784	Zinc phosphodiesterase ELAC protein
+GL50803_3281	B	K06067	Histone deacetylase
+GL50803_112811	I, U		Myotubularin related protein
+GL50803_5638	S		Inherit from bctoNOG: RHS repeat-associated core domain-containing protein
+GL50803_16839	B, K	K08863,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_16840	S		WD domain, G-beta repeat
+GL50803_5643	T	K08863	NIMA-related kinase
+GL50803_16841	V	K03327	Mate efflux family protein
+GL50803_13352	S	K11502	centromere protein J
+GL50803_13350	C	K11173	alcohol dehydrogenase
+GL50803_16842	S		VSP with INR
+GL50803_2860	C	K00001,K00086,K00217,K19954	alcohol dehydrogenase
+GL50803_16843	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_19867	S	K15448	tRNA methyltransferase 11-2 homolog (S. cerevisiae)
+GL50803_13749	A	K14376	poly(a) polymerase
+GL50803_4849	F	K00939,K13800,K18533	adenylate kinase
+GL50803_4846	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_4843	E	K09257	Ankyrin Repeat
+GL50803_93548	T		phospholipase B domain containing
+GL50803_50233	U		High cysteine membrane protein Group 1
+GL50803_112828	U		High cysteine membrane protein Group 1
+GL50803_50259	S		VSP with INR
+GL50803_16450	S		radial spoke 3 homolog (Chlamydomonas)
+GL50803_8367	C	K02151	Subunit of the peripheral V1 complex of vacuolar ATPase essential for assembly or catalytic function. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells (By similarity)
+GL50803_8364	F	K00857,K03165	THymidine Kinase
+GL50803_8361	S	K11806	ddb1 and cul4 associated factor 13
+GL50803_8360	I	K01128	sphingomyelin phosphodiesterase, acid-like
+GL50803_13921	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_13922	M	K03118	Inherit from arCOG: Cell surface protein
+GL50803_16518	Z	K16533	centrosomal protein 290kDa
+GL50803_104173	J	K01870	isoleucyltRNA synthetase
+GL50803_16519	S		Radical SAM domain containing protein
+GL50803_10919	J	K02947	Ribosomal protein S10
+GL50803_16520	U	K14007	Sec23/Sec24 zinc finger
+GL50803_10924	S		Coiled-coil domain containing 42
+GL50803_16521	U	K15296	attachment protein
+GL50803_15317	T		FiBrilliN
+GL50803_19436	J	K02937	Ribosomal protein
+GL50803_24947	K	K12197	Charged multivesicular body protein 1a
+GL50803_16525	J	K02925	Ribosomal protein
+GL50803_10939	S		Kelch motif
+GL50803_10943	S		transmembrane protein 63C
+GL50803_16526	S	K10265	F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase
+GL50803_10950	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_d112801	S		VSP with INR
+GL50803_112801	S		VSP with INR
+GL50803_2876	O	K06689,K10573,K10584	ubiquitin-conjugating enzyme
+GL50803_92518	S		DUF221 domain-containing protein
+GL50803_16141	S	K19760	U4 u6 small nuclear ribonucleoprotein
+GL50803_1383	O	K09550	Prefoldin subunit
+GL50803_24043	S		Spermatogenesis associated 4
+GL50803_4235	K	K15731,K17618	CTD (Carboxy-terminal domain, RNA polymerase II, polypeptide A) small
+GL50803_4236	S	K05039,K10420	dynein, light chain
+GL50803_13575	S	K05039,K10420	dynein, light chain
+GL50803_92498	T	K08857	NIMA-related kinase
+GL50803_92495	S		WNT inhibitory factor 1
+GL50803_16779	O		cathepsin
+GL50803_112787	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_101866	T	K08857,K15503	Neurofibromin 1
+GL50803_2692	S		Acyltransferase
+GL50803_104232	L	K02543,K06640	Ataxia telangiectasia and rad3 related
+GL50803_16869	S	K19851	Flo11 domain
+GL50803_24603	S		Pfam:LACT
+GL50803_16867	O	K13525	cell division cycle protein 48
+GL50803_96878	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_27055	O	K10583	ubiquitin-conjugating enzyme
+GL50803_4320	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_4322	M		Ankyrin Repeat Protein
+GL50803_4323	F	K00942	guanylate kinase
+GL50803_1774	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_111933	S		VSP with INR
+GL50803_111936	S		VSP with INR
+GL50803_15383	O	K03386,K13279,K20011	peroxiredoxin
+GL50803_15382			
+GL50803_11247	J	K02872,K03644	60s ribosomal protein
+GL50803_11246	S		deleted in primary ciliary dyskinesia homolog (mouse)
+GL50803_17571			
+GL50803_15380	F	K00943	thymidylate kinase
+GL50803_17570	J	K03234	Elongation factor
+GL50803_17568	E	K09257	Ankyrin Repeat
+GL50803_4596	I	K00894	Ethanolamine kinase
+GL50803_4597	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_17567	T	K11092	leucine rich repeat
+GL50803_17566	T		serine threonine-protein kinase
+GL50803_17565	L	K11338	RuvB-like 2 (E. coli)
+GL50803_92031	S	K14573	RNA binding motif protein 28
+GL50803_13708	O		Putative zinc finger in N-recognin (UBR box)
+GL50803_17563	T	K04371	Mitogen-activated protein kinase
+GL50803_17562	S		Ankyrin Repeat
+GL50803_12853	H	K11996,K18469	Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Also essential during biosynthesis of the molybdenum cofactor. Acts by mediating the C-terminal thiocarboxylation of sulfur carriers urm1 and mocs2a. Its N-terminus first activates urm1 and mocs2a as acyl-adenylates (-COAMP), then the persulfide sulfur on the catalytic cysteine is transferred to urm1 and mocs2a to form thiocarboxylation (-COSH) of their C-terminus. The reaction probably involves hydrogen sulfide that is generated from the persulfide intermediate and that acts as nucleophile towards urm1 and mocs2a. Subsequently, a transient disulfide bond is formed. Does not use thiosulfate as sulfur donor
+GL50803_17561	T	K12486	ArfGAP with dual PH domains
+GL50803_17560	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_15276	S		GlcNAc-PI de-N-acetylase
+GL50803_17558	T	K00870	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase
+GL50803_10744	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_103142			
+GL50803_60942	S		Retrotransposon protein
+GL50803_60949	S		Retrotransposon protein
+GL50803_114192	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_4563	S		copine family
+GL50803_60969	K		Chromosome 2 open reading frame 18
+GL50803_16541	E	K06653	Ankyrin Repeat
+GL50803_16540	S	K14474,K19942	Growth arrest-specific 8
+GL50803_11642	I, M	K00720	Ceramide glucosyltransferase
+GL50803_11638			
+GL50803_15460	O	K03671	Thioredoxin
+GL50803_38104	P		ATPase class II type
+GL50803_114776	O	K06027	n-ethylmaleimide-sensitive factor
+GL50803_103437	S	K17095,K17099	annexin A7
+GL50803_16332	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_4897	O	K15699	finger protein
+GL50803_101074	S		VSP with INR
+GL50803_33022	J	K03679	Exosome complex
+GL50803_15995	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_5158	K	K03145	Transcription elongation factor A (SII), 3
+GL50803_13852	T	K08800,K14864	cellular response to glucose starvation
+GL50803_5164	J	K08139	transporter
+GL50803_5167	K		RNA polymerase II
+GL50803_96018	Z	K10423	Inherit from artNOG: CAP-Gly domain
+GL50803_7807	S		WD40
+GL50803_7800	F	K00988	ATP adenylyltransferase
+GL50803_7797	U	K17092	annexin A9
+GL50803_16543	S		Inherit from NOG: keratin, type II cytoskeletal
+GL50803_114852	S		VSP with INR
+GL50803_13832	J	K07560,K13117	Hydrolyzes D-tyrosyl-tRNA(Tyr) into D-tyrosine and free tRNA(Tyr). Could be a defense mechanism against a harmful effect of D-tyrosine (By similarity)
+GL50803_15972	S		Ankyrin Repeat
+GL50803_93011	E	K14242	Ankyrin Repeat
+GL50803_16122	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_5881	S		Ankyrin Repeat
+GL50803_5879	E	K14242	Ankyrin Repeat
+GL50803_16034	T		serine threonine-protein kinase
+GL50803_3861	C		alcohol dehydrogenase
+GL50803_21662	S		Inherit from NOG: basal body component
+GL50803_95639	S	K12472	BRCT domain protein
+GL50803_16900	A	K13221,K15542	WD repeat domain
+GL50803_101339	O	K01802,K03773,K09568,K09571	Peptidyl-prolyl cis-trans isomerase
+GL50803_32741	A	K15086	Tar (HIV-1) RNA binding protein 1
+GL50803_3920			
+GL50803_27520	T	K03097	Casein Kinase
+GL50803_5543	S		repeat protein
+GL50803_27521	B	K11251	histone h2a
+GL50803_16905	V	K03327	Mate efflux family protein
+GL50803_3449	T	K05661,K08857,K10645,K15503	NIMA-related kinase
+GL50803_95895			
+GL50803_16906	I	K00981	phosphatidate Cytidylyltransferase
+GL50803_95898	J	K14778	ATP-binding RNA helicase involved in 40S ribosomal subunit biogenesis and is required for the normal formation of 18S rRNAs through pre-rRNA processing at A0, A1 and A2 sites. Required for vegetative growth (By similarity)
+GL50803_7323	U	K12193	SNF7-like protein
+GL50803_95904	E	K14993,K14994	Solute carrier family 38 member
+GL50803_7328	S		Chromosome 16 open reading frame 80
+GL50803_1935	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_95918	O	K10696	RING
+GL50803_114885	U		Kinesin-Associated Protein
+GL50803_16988	T	K08863	NIMA-related kinase
+GL50803_7537	T	K00924,K02218,K03359,K08957,K08959,K08960,K14758	Casein Kinase
+GL50803_7534			
+GL50803_7533	S	K14818	Angio-associated migratory cell protein
+GL50803_7532	C	K02145,K17065	Subunit A
+GL50803_137753			
+GL50803_28234	F	K00939	adenylate kinase
+GL50803_4331	O	K03037	Proteasome (Prosome, macropain) 26S subunit, non-ATPase, 6
+GL50803_4329	S		Ankyrin repeat protein
+GL50803_4328	L	K10844	excision repair cross-complementing rodent repair deficiency, complementation group 2
+GL50803_22138	L		werner helicase interacting protein
+GL50803_86440	K	K04794	Peptidyl-trna hydrolase
+GL50803_1721	K	K03120	General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation (By similarity)
+GL50803_86444	T	K13303	ribosomal protein s6 kinase
+GL50803_137754	O	K10587,K10614	domain containing E3 ubiquitin protein ligase
+GL50803_2053	G, T	K01090,K15423	serine threonine-protein phosphatase
+GL50803_d7183	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_112633	S	K02599	WNT inhibitory factor 1
+GL50803_7183	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_103783	M		Ankyrin Repeat Protein
+GL50803_41369	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_9704	G	K00615,K17100	Transketolase
+GL50803_114462			
+GL50803_22084	L		SAM domain and HD
+GL50803_9698	H	K00861,K00953	riboflavin kinase
+GL50803_16392	T		Leucine rich repeat N-terminal domain
+GL50803_119706			
+GL50803_119707			
+GL50803_4288	T		PHOsphatase
+GL50803_13590	E	K09257	Ankyrin Repeat
+GL50803_13964	S		forebrain astrocyte differentiation
+GL50803_13963	T	K02206,K02211,K08819	Cyclin-Dependent Kinase
+GL50803_5554	S		forebrain astrocyte differentiation
+GL50803_5553	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_13962	I	K01641	synthase
+GL50803_16230	C	K08738	cytochrome c
+GL50803_3367	B	K11253	histone H3
+GL50803_3372	E	K01265,K01953	asparagine synthetase
+GL50803_34160	O		Zinc finger, C3HC4 type (RING finger)
+GL50803_8208	A	K15442	adenosine deaminase, tRNA-specific 3
+GL50803_8209	K	K12581	Ccr4-not transcription complex, subunit
+GL50803_8210	I, U	K01104,K18081	Myotubularin related protein
+GL50803_101380	S		regulation of RNA biosynthetic process
+GL50803_8217	J	K00876	Phosphoribulokinase uridine kinase family protein
+GL50803_8218	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_16251	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_41288	S		Chitin binding Peritrophin-A domain
+GL50803_61044	S		EFh
+GL50803_16287	S	K19758	repeat-containing protein
+GL50803_6199	T		mitogen-activated protein kinase kinase kinase
+GL50803_14135	F		nucleoside diphosphate kinase
+GL50803_61047	E		amino acid
+GL50803_14133	S	K20032	ankyrin repeat domain
+GL50803_6185			
+GL50803_6184	E	K00826	branched-chain-amino-acid aminotransferase
+GL50803_16286	S	K00650	Acyl-transferase
+GL50803_16285	L	K03514	PAP associated domain containing
+GL50803_113553	S	K08857	forebrain astrocyte differentiation
+GL50803_113554	O	K03062,K03063	26S protease regulatory subunit
+GL50803_3099	O		Serine repeat antigen
+GL50803_17231	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_27735	L	K10865	double-strand break repair protein
+GL50803_113565			
+GL50803_14661	T		CAMK family protein kinase
+GL50803_8191	S		family UPF0066
+GL50803_8189	O	K11843	ubiquitin thiolesterase activity
+GL50803_2198	T	K04460,K12795,K19870	serine threonineprotein phosphatase
+GL50803_17239	A	K03257,K13025	(RNA) helicase
+GL50803_14831	S		small proline-rich protein 3
+GL50803_9003	O		proprotein convertase subtilisin kexin type
+GL50803_9008	K	K00002,K00011,K00085,K17743	)-reductase
+GL50803_14834	E	K09257	Ankyrin Repeat
+GL50803_14833	S		Oxysterol-binding protein
+GL50803_9011	J	K01880,K02333	Glycyl-trna synthetase
+GL50803_14835	S		forebrain astrocyte differentiation
+GL50803_14838	S		Ankyrin repeat protein
+GL50803_4039	T		LRR receptor-like serine threonine-protein kinase
+GL50803_4038	S		Transglutaminase-like superfamily
+GL50803_3042	C		hybrid-cluster protein
+GL50803_17244	J	K02936	60s ribosomal protein
+GL50803_13231	T	K02183	Calcium binding protein
+GL50803_24009	E	K09257	Ankyrin Repeat
+GL50803_61054	I		isoamyl acetate-hydrolyzing esterase 1 homolog (S. cerevisiae)
+GL50803_4912	T	K08863	NIMA-related kinase
+GL50803_13766	S		Ankyrin repeat protein
+GL50803_50289			
+GL50803_32509	Z		Cooperates with the reticulon proteins and tubule- shaping DP1 family proteins to generate and maintain the structure of the tubular endoplasmic reticulum network. Has GTPase activity, which is required for its function in ER organization (By similarity)
+GL50803_95064	A	K00560,K00773	Exchanges the guanine residue with 7-aminomethyl-7- deazaguanine in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr). After this exchange, a cyclopentendiol moiety is attached to the 7-aminomethyl group of 7-deazaguanine, resulting in the hypermodified nucleoside queuosine (Q) (7-(((4,5-cis- dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine) (By similarity)
+GL50803_13672	H	K06210	(Nicotinamide) nucleotide adenylyltransferase
+GL50803_17627	U		Vacuolar protein sorting protein DigA
+GL50803_13982	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_13981	T	K05661,K08857,K14242,K15503	NIMA-related kinase
+GL50803_5613	S		RNA cap guanine-N2 methyltransferase
+GL50803_17626	K	K09273	upstream binding transcription factor, RNA polymerase I
+GL50803_17625	T	K00870,K03083	Glycogen synthase kinase
+GL50803_3290	B, K	K10645,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17624	S	K19758	repeat-containing protein
+GL50803_3294	K	K14785	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+GL50803_3206	G	K00873	Pyruvate kinase
+GL50803_17622	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_12148	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_12150	E	K00814	alanine aminotransferase
+GL50803_12152	T	K08863	Polo-like kinase
+GL50803_50290	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_102178	S		small proline-rich protein 3
+GL50803_23357	S		coiled-coil domain containing 65
+GL50803_42285	Z	K10408,K10413,K10414	heavy chain
+GL50803_6372	S		WNT inhibitory factor 1
+GL50803_14181	U		Uso1 / p115 like vesicle tethering protein, head region
+GL50803_6367			
+GL50803_113655	L	K14805	atp-dependent rna helicase
+GL50803_113656	O	K01365	cathepsin
+GL50803_91099	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_14375	J	K01893,K02902	Asparaginyl-tRNA synthetase
+GL50803_14374	O	K00652,K00654	Serine palmitoyl-transferase
+GL50803_7139	H		pantetheine-phosphate adenylyltransferase family protein
+GL50803_14373	U	K01528,K17065	Dynamin-related protein
+GL50803_16958	P		ATPase class II type
+GL50803_16957	S	K14810	WD repeat domain phosphoinositide-interacting protein
+GL50803_115830	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_115831	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_11052	S	K10604	RING finger
+GL50803_103074	S	K13024	Diphosphoinositol pentakisphosphate kinase
+GL50803_113522	T	K08282	3phosphoinositidedependent protein kinase
+GL50803_8465	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_8462	J	K02901,K05288	60S ribosomal protein L27
+GL50803_8460	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_22385	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_14713	T	K04638	Intraflagellar transport 57 homolog (Chlamydomonas)
+GL50803_8456	S	K06047,K16599,K16603,K16608	Tubulin tyrosine ligase-like family, member
+GL50803_91056	E	K14454,K14455,K14640	Aspartate aminotransferase
+GL50803_4343	S		zinc finger protein
+GL50803_27059	O	K02733,K02739	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_13606	E		MORN repeat containing
+GL50803_4349	S		methyltransferase like 13
+GL50803_113512	S		regulation of RNA biosynthetic process
+GL50803_137740			
+GL50803_93221	T		Serine Threonine protein kinase
+GL50803_10632	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_88082	U	K17301	The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non- clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)
+GL50803_102890	S	K02180,K04532,K14298	Mitotic checkpoint protein
+GL50803_15256	I	K00293,K10395,K11778	Dehydrodolichyl diphosphate synthase
+GL50803_10623	C	K01596	phosphoenolpyruvate carboxykinase
+GL50803_17613	M	K09257,K15502,K15503	Ankyrin Repeat Protein
+GL50803_6342	M		Ankyrin Repeat Protein
+GL50803_102893	M		Ankyrin Repeat Protein
+GL50803_6344	B, K		ankyrin repeat, family A (RFXANK-like), 2
+GL50803_6346	T	K08863	NIMA-related kinase
+GL50803_8983	S		Ankyrin Repeat
+GL50803_8982			
+GL50803_88071	E	K09257	Ankyrin Repeat
+GL50803_8978	G	K00705	4-alpha-glucanotransferase
+GL50803_23330	Z		spermatogenesis associated 17
+GL50803_6589	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_6590	A	K11108	RNA 3-terminal phosphate
+GL50803_14247	G	K08178,K13783	major facilitator Superfamily
+GL50803_17608	M		Ankyrin Repeat Protein
+GL50803_17607	O		Serine repeat antigen
+GL50803_5845	J	K02995,K15430	40S ribosomal protein S8
+GL50803_61105	S		Inherit from opiNOG: asteroid homolog 1 (Drosophila)
+GL50803_14038	H		Halo-acid dehalogenase-like hydrolase
+GL50803_23325	C	K00176	Ferredoxin
+GL50803_17604	E	K09257	Ankyrin Repeat
+GL50803_6304	Y		Component of the cytosolic Fe S protein assembly machinery. Required for maturation of extramitochondrial Fe S proteins. May play a role in the transfer of pre-assembled Fe S clusters to target apoproteins (By similarity)
+GL50803_14164	T	K08857,K14242	Neurofibromin 1
+GL50803_23314	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_15428	U	K19677	intraflagellar transport 81 homolog (Chlamydomonas)
+GL50803_11540	J	K08139	transporter
+GL50803_15429	Q	K01920	glutathione synthetase
+GL50803_16802	T, U	K02090,K04563	Cell division protein kinase 2
+GL50803_16803	P	K16302	Inherit from COG: Transfers the fatty acyl group on membrane lipoproteins (By similarity)
+GL50803_11554	S	K08857	forebrain astrocyte differentiation
+GL50803_11560	S		AHNAK nucleoprotein
+GL50803_137742	T	K08843,K16288	protein kinase kinase kinase
+GL50803_115444	M		Ankyrin Repeat Protein
+GL50803_114470	S		regulation of RNA biosynthetic process
+GL50803_115445	M		Ankyrin Repeat Protein
+GL50803_137743	T	K08843,K16288	protein kinase kinase kinase
+GL50803_137744	S		EGF_like
+GL50803_16945	Z	K10393	Kinesin family member
+GL50803_10341	A	K14775	Ribosomal L1 domain containing 1
+GL50803_10335	J	K03439,K17887	Catalyzes the formation of N(7)-methylguanine at position 46 (m7G46) in tRNA (By similarity)
+GL50803_16943	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_10330	S		WNT inhibitory factor 1
+GL50803_96994	U	K02201,K04560,K08486,K08487,K13502	SYNtaxin
+GL50803_10324	G	K01783	ribulose-phosphate 3-epimerase
+GL50803_10313	T	K04371,K14512	Mitogen-activated protein kinase
+GL50803_10311	E	K00611	ornithine carbamoyltransferase
+GL50803_137745	D	K06669	Structural maintenance of chromosomes
+GL50803_24880	S	K02599	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_4838	J	K03680	Translation initiation factor
+GL50803_16936	S	K02599	WNT inhibitory factor 1
+GL50803_5787	S		IQ calmodulin-binding motif
+GL50803_5786	J	K14568	Nucleolar essential protein
+GL50803_27614	G	K01808	ribose 5-phosphate isomerase
+GL50803_16934	S		TPR
+GL50803_95717	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_17190	J	K03265	Eukaryotic peptide chain release factor subunit
+GL50803_13346	L	K10872	RAD51 dmc1 protein
+GL50803_3414	C	K07200	protein kinase, AMP-activated, gamma
+GL50803_17189	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_17188	B, K	K08863,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17187	K	K03021	dna-directed RNA polymerase
+GL50803_101450	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_15521	O	K07762,K08647	whole genome shotgun sequence
+GL50803_11897	T	K00889,K13712	phosphatidylinositol-4-phosphate 5-kinase
+GL50803_15520	J	K02889	ribosomal protein
+GL50803_11885	S	K19750	dynein, axonemal, assembly factor 1
+GL50803_137747	S		von Willebrand factor D and EGF
+GL50803_15514	T	K04411	serine threonine-protein kinase
+GL50803_11877	S		AHNAK nucleoprotein
+GL50803_15513	A	K14768	WD repeat domain 46
+GL50803_14741	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_14742	T	K08863	NIMA-related kinase
+GL50803_8610	S		WD repeat domain 65
+GL50803_87928	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_40904	T	K08286,K08857	NimA-related protein kinase
+GL50803_11044	S	K06685	MOB kinase activator
+GL50803_11043	G	K01624	fructose-bisphosphate aldolase
+GL50803_11040	T	K04466	mitogen-activated protein kinase kinase kinase
+GL50803_87945	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_15329	S		Ankyrin Repeat
+GL50803_16445	T		EGF
+GL50803_13215	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_15089	O	K09562	Nucleotide exchange factor Fes1
+GL50803_101501	J	K01875	seryl-tRNA synthetase
+GL50803_15090	E		Serine dehydratase alpha chain
+GL50803_16039	S		coiled-coil domain containing 40
+GL50803_113801	S		VSP with INR
+GL50803_113797	S		VSP with INR
+GL50803_113793	K		Chromosome 2 open reading frame 18
+GL50803_10019	P	K01530,K14802	ATPase, class
+GL50803_16475	L	K15078	structure-specific endonuclease that resolves DNA secondary structures generated during DNA repair and recombination. Has endonuclease activity towards branched DNA substrates, introducing single-strand cuts in duplex DNA close to junctions with ss-DNA
+GL50803_16477	S	K06252	WNT inhibitory factor 1
+GL50803_14581	O	K04044	heat shock
+GL50803_40224	G	K08178,K13783	major facilitator Superfamily
+GL50803_14584	S		MJ0042 family finger-like protein
+GL50803_7909	E		amino acid
+GL50803_16478	S	K19851	Flo11 domain
+GL50803_21592	F	K07023	HD domain-containing protein
+GL50803_42357			
+GL50803_7710	T		Ribosomal protein S6
+GL50803_14519	E	K04487	cysteine desulfurase
+GL50803_7715	U		High cysteine membrane protein Group 1
+GL50803_7718	O	K09537,K11885,K13215	Nuclear receptor interacting protein
+GL50803_14521	O	K03386,K13279,K20011	peroxiredoxin
+GL50803_16596			
+GL50803_16595			
+GL50803_6542	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_95593	T	K08857	S_TKc
+GL50803_102710	O	K11836	ubiquitin carboxyl-terminal hydrolase
+GL50803_5489	E	K06653	Ankyrin Repeat
+GL50803_5488	B	K15224	bromodomain adjacent to zinc finger domain
+GL50803_16592	Q		ATP-binding cassette sub-family A ABC1 member
+GL50803_21603	E	K14242	Ankyrin Repeat
+GL50803_38394	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_14289	O		Redoxin domain protein
+GL50803_95563	S	K01186	Hyphally regulated cell wall protein N-terminal
+GL50803_95557	T		Ankyrin repeat and sterile alpha motif domain containing
+GL50803_14324	U		High cysteine membrane protein Group 1
+GL50803_102722	J	K14569	Ribosome biogenesis protein bms1
+GL50803_95549	E	K09257,K18410	Ankyrin Repeat
+GL50803_17308	A	K00987,K01104,K13917	Second step of mRNA capping. Transfer of the GMP moiety of GTP to the 5'-end of RNA via an enzyme-GMP covalent reaction intermediate (By similarity)
+GL50803_5772	I	K00671	Adds a myristoyl group to the N-terminal glycine residue of certain cellular proteins (By similarity)
+GL50803_95530	S	K11491	Inherit from KOG: Non-SMC condensin II complex, subunit D3
+GL50803_7390	J	K05543,K11858	dihydrouridine synthase domain protein-like protein
+GL50803_24842	T		calcium-dependent protein kinase
+GL50803_17315	Q	K05663,K06147	(ABC) transporter
+GL50803_113741			
+GL50803_14104	S		family with sequence similarity 135, member
+GL50803_6055	A	K02427,K14864	rna methyltransferase
+GL50803_6054	S	K06173,K14838	MKI67 (FHA domain) interacting nucleolar phosphoprotein
+GL50803_17316	G	K00858	nad kinase
+GL50803_4369	S	K18065	Rhodanese-like domain
+GL50803_4371	Z	K10395,K10401	Kinesin family
+GL50803_24636	L	K10756	replication factor c
+GL50803_17318	S	K08857,K13412	forebrain astrocyte differentiation
+GL50803_14203	T		ankyrin repeat
+GL50803_6436	F	K00760	Hypoxanthine phosphoribosyltransferase
+GL50803_33985			
+GL50803_6439	S	K13978	grancalcin, EF-hand calcium binding protein
+GL50803_6441	T		serine threonine-protein phosphatase
+GL50803_14206	E	K06653	Ankyrin Repeat
+GL50803_7950	O	K03063	26S protease regulatory subunit
+GL50803_7953	P	K01551	ATPase required for the post-translational delivery of tail-anchored (TA) proteins to the endoplasmic reticulum. Recognizes and selectively binds the transmembrane domain of TA proteins in the cytosol. This complex then targets to the endoplasmic reticulum by membrane-bound receptors, where the tail- anchored protein is released for insertion. This process is regulated by ATP binding and hydrolysis. ATP binding drives the homodimer towards the closed dimer state, facilitating recognition of newly synthesized TA membrane proteins. ATP hydrolysis is required for insertion. Subsequently, the homodimer reverts towards the open dimer state, lowering its affinity for the membrane-bound receptor, and returning it to the cytosol to initiate a new round of targeting (By similarity)
+GL50803_113723	S		attractin
+GL50803_137750			
+GL50803_17320	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_28832	S		Pfam:LACT
+GL50803_103713	O	K01829,K08056,K09580,K13996	Protein disulfide isomerase
+GL50803_28831	J	K06173	Trna pseudouridine synthase
+GL50803_9427	J	K02435,K15456	KTI12 homolog, chromatin associated (S. cerevisiae)
+GL50803_38462	Z	K10413	heavy chain
+GL50803_93358	C	K04072,K13954	alcohol dehydrogenase
+GL50803_5435	T		receptor-like protein kinase
+GL50803_16143	K	K10876,K11647,K11756	SWI SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member
+GL50803_114636	S		Pfam:LACT
+GL50803_4507	F	K01937	ctp synthase
+GL50803_16090	O	K02881,K11839,K11848	ubiquitin carboxyl-terminal hydrolase
+GL50803_24734			
+GL50803_7272	K	K12127,K14491	response regulator
+GL50803_14408	S		Inherit from NOG: In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high- sulfur and high-glycine-tyrosine keratins
+GL50803_7268	B, K		ankyrin repeat, family A (RFXANK-like), 2
+GL50803_137752	S		regulation of RNA biosynthetic process
+GL50803_10167	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_102515	K	K11699	rna polymerase
+GL50803_86511	C		synthetase
+GL50803_15134	Z		Kinesin family member
+GL50803_33689	S	K01277	dipeptidylpeptidase
+GL50803_23888	O		Redoxin
+GL50803_114180	O	K07762,K08647	whole genome shotgun sequence
+GL50803_14216	T		mitogen-activated protein kinase kinase kinase
+GL50803_34050	L	K12874	Inherit from ascNOG: DEAD helicases superfamily protein (Aquarius)
+GL50803_95192	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_28379	Q	K05668,K05674	ATP-binding cassette, sub-family C (CFTR MRP), member
+GL50803_42196	S		Laminin alpha 1
+GL50803_7982	G		udp-glucuronic acid decarboxylase
+GL50803_14603	L	K03426	nudix (nucleoside diphosphate linked moiety X)-type motif
+GL50803_14604	D	K03593	Component of the cytosolic iron-sulfur (Fe S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NBP35-CFD1 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins
+GL50803_7990	J	K03259	Eukaryotic initiation factor 4E
+GL50803_114165	O	K01363	cathepsin
+GL50803_136003	S		regulation of RNA biosynthetic process
+GL50803_136004	S		regulation of RNA biosynthetic process
+GL50803_119224	O	K01363	cathepsin
+GL50803_12028	T		ankyrin repeat
+GL50803_15555	A	K14809,K16833	ATP-binding RNA helicase involved in the biogenesis of 60S ribosomal subunits. Required for the normal formation of 18S rRNA through the processing of pre-rRNAs at sites A0, A1 and A2, and the normal formation of 25S and 5.8S rRNAs through the processing of pre-rRNAs at sites C1 and C2 (By similarity)
+GL50803_15559	L	K11348	PHD finger protein
+GL50803_12046	Z		sperm flagellar 1
+GL50803_113480	U		Uso1 / p115 like vesicle tethering protein, head region
+GL50803_16156	M		Ankyrin Repeat Protein
+GL50803_16157	S	K18407	Inherit from NOG: tudor domain containing 5
+GL50803_27310	S	K09553	tetratricopeptide repeat domain
+GL50803_13800	S		Ankyrin Repeat
+GL50803_16158	O		proprotein convertase subtilisin kexin type
+GL50803_16160	O		cathepsin
+GL50803_3531	S		WD repeatcontaining protein
+GL50803_d101765	S		VSP with INR
+GL50803_101765	S		VSP with INR
+GL50803_112112	S		Inherit from euNOG: Conserved hypothetical protein
+GL50803_104150	T	K06631,K08861	Polo-like kinase
+GL50803_17090			
+GL50803_17091	J	K03681	Exosome complex
+GL50803_8496	Z	K04392	ras homolog family member
+GL50803_8497	S	K07915,K07976	member RAS oncogene family
+GL50803_37353	E	K18696	Ankyrin Repeat
+GL50803_3593	C		alcohol dehydrogenase
+GL50803_3594	S		Domain of unknown function (DUF3342)
+GL50803_3595	L	K10773,K13123	Endonuclease
+GL50803_112103	E		Amidinotransferase
+GL50803_17096	S		Ankyrin repeat protein
+GL50803_17097	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_4708	S		filamin A interacting protein 1-like
+GL50803_86593	U	K18953	Beige/BEACH domain
+GL50803_13608	C		synthetase
+GL50803_4357	V		Dual specificity protein phosphatase
+GL50803_4355	S		Inherit from COG: ngg1p interacting factor 3 protein, nif3
+GL50803_86600	O	K01265	Removes the N-terminal methionine from nascent proteins (By similarity)
+GL50803_10885	G	K01196	Glycogen debranching enzyme
+GL50803_10879	S		IQ motif and ubiquitin domain containing
+GL50803_16924	O	K02730	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_10875	S		chromosome 6 open reading frame 165
+GL50803_10870	J	K01876	Aspartyl-tRNA synthetase
+GL50803_112079	Z	K07374	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_16920	S	K14820	WD repeatcontaining protein
+GL50803_9307	M	K18584	Ankyrin Repeat Protein
+GL50803_112076	D	K02214	cell division cycle 7 homolog (S. cerevisiae)
+GL50803_9327	T		ankyrin repeat
+GL50803_14926	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_50317	S		VSP with INR
+GL50803_114674	S		VSP with INR
+GL50803_96399	Z	K16803	CLASP N terminal
+GL50803_10238	S	K01727	hyaluronate lyase
+GL50803_15148	O	K09523,K09527	DnaJ (Hsp40) homolog, subfamily C, member 3
+GL50803_10231	O	K09498	t-complex protein 1 subunit
+GL50803_115245	S	K12768	LPXTG-motif cell wall anchor domain protein
+GL50803_13825	Z		Kinesin family member
+GL50803_6616	A		Pre-mRNA-splicing factor ATP-dependent RNA helicase
+GL50803_14256	B	K11251	histone h2a
+GL50803_115239	J	K03243	Translation Initiation Factor
+GL50803_100906	Z	K10408,K10413,K10414	heavy chain
+GL50803_16986	T		serine threonine-protein kinase
+GL50803_12174	S	K07542	Phosphatidylinositol glycan anchor biosynthesis class V
+GL50803_135003	B	K11254	Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling
+GL50803_121517	B, K	K10645,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_115787	B, K	K10645,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_135002	B	K11254	Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling
+GL50803_12164	A	K11088	small nuclear ribonucleoprotein
+GL50803_12162	J	K01889	phenylalanyl-trna synthetase alpha
+GL50803_12157	U	K07877,K19372	Ras-related protein
+GL50803_15591	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_16985	S		Cell wall protein that participates directly in adhesive cell-cell interactions during yeast flocculation, a reversible, asexual and Ca(2 )-dependent process in which cells adhere to form aggregates (flocs) consisting of thousands of cells. The lectin- like protein sticks out of the cell wall of flocculent cells and selectively binds mannose residues in the cell walls of adjacent cells
+GL50803_100887	J	K14589,K18081	FtsJ methyltransferase domain containing 2
+GL50803_137613			
+GL50803_41687	M		Ankyrin Repeat Protein
+GL50803_101589			
+GL50803_103058	J	K14589,K18081	FtsJ methyltransferase domain containing 2
+GL50803_103059	Z	K10408,K10413,K10414	heavy chain
+GL50803_33083	L	K08739	DNA mismatch repair protein
+GL50803_112304	J	K03231	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)
+GL50803_112305	S		VSP with INR
+GL50803_16863	D	K13291,K14079	Zinc finger, CCHC domain containing
+GL50803_14827	J	K02949	ribosomal protein S11
+GL50803_39312	S	K14572,K15121	Nuclear chaperone required for maturation and nuclear export of pre-60S ribosome subunits (By similarity)
+GL50803_16862	T	K08838	mitogen-activated protein kinase kinase kinase
+GL50803_5604	U	K03626	Component of the nascent polypeptide-associated complex (NAC), a dynamic component of the ribosomal exit tunnel, protecting the emerging polypeptides from interaction with other cytoplasmic proteins to ensure appropriate nascent protein targeting. The NAC complex also promotes mitochondrial protein import by enhancing productive ribosome interactions with the outer mitochondrial membrane and blocks the inappropriate interaction of ribosomes translating non-secretory nascent polypeptides with translocation sites in the membrane of the endoplasmic reticulum. Egd-2 may also be involved in transcription regulation (By similarity)
+GL50803_112312	J	K03231	This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)
+GL50803_112135	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_9134			
+GL50803_9133	Q	K05644	ATP-binding cassette sub-family A ABC1 member
+GL50803_9130	K	K11423	SET domain containing 2
+GL50803_16431	J	K02885	ribosomal protein L19
+GL50803_8329	U	K12189	vacuolar protein sorting 25 homolog (S. cerevisiae)
+GL50803_16430	S		conserved hypothetical protein
+GL50803_8325	O		RING
+GL50803_14681	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_14679	E	K06653	Ankyrin Repeat
+GL50803_16425	Z	K10398	kinesin family member 11
+GL50803_11397	O	K09494	TCP-1/cpn60 chaperonin family
+GL50803_15413	U		RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae)
+GL50803_15412	E	K09257	Ankyrin Repeat
+GL50803_15411	S		forebrain astrocyte differentiation
+GL50803_15410	E	K10324	Ankyrin Repeat
+GL50803_15409	E	K10324	Ankyrin Repeat
+GL50803_11390	S		forebrain astrocyte differentiation
+GL50803_11389	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_11384	L	K02349,K19178	DNA polymerase
+GL50803_480	J	K09022	Heat-responsive protein 12
+GL50803_11380	S		Beta-glucosidase (SUN family)
+GL50803_24452	S		Inherit from NOG: KH domain containing 3-like, subcortical maternal complex member
+GL50803_93275	U		GCN1 general control of amino-acid synthesis 1-like 1 (Yeast)
+GL50803_93278	U	K14290	exportin
+GL50803_7261	T	K00889,K04575,K13712	phosphatidylinositol-4-phosphate 5-kinase
+GL50803_7260	K	K00002,K00011,K00085,K17743	)-reductase
+GL50803_7259	I	K00995	cardiolipin synthase
+GL50803_14404	T		PHOsphatase
+GL50803_14403	I	K13506	1-acylglycerol-3-phosphate O-acyltransferase 6 (lysophosphatidic acid acyltransferase, zeta)
+GL50803_50332			
+GL50803_90872	G	K00927	phosphoglycerate kinase
+GL50803_16707	S	K19684	cell projection organization
+GL50803_11486	O	K01537,K02727	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_11487			
+GL50803_11493	S		Ankyrin Repeat
+GL50803_11495	O	K17255	GDP dissociation inhibitor
+GL50803_11499	S		Ankyrin Repeat
+GL50803_16709	T	K19671	WD repeat domain 19
+GL50803_d11521	S		regulation of RNA biosynthetic process
+GL50803_11521	S		regulation of RNA biosynthetic process
+GL50803_1713	E	K09257	Ankyrin Repeat
+GL50803_101919	S	K07199	Protein kinase, AMP-activated, beta
+GL50803_61270	U	K14000	ribosome binding protein 1 homolog 180kDa (dog)
+GL50803_17030	O	K01489,K04082	HscB iron-sulfur cluster co-chaperone homolog (E. coli)
+GL50803_4883	T		rho guanine nucleotide exchange factor
+GL50803_8639	Z	K04648,K10392,K11498	kinesin K39
+GL50803_8638	O	K10578,K14965	ubiquitin-conjugating enzyme
+GL50803_221691	B	K11420	Histone-lysine N-methyltransferase
+GL50803_14748	S		p25-alpha
+GL50803_24712	T		whole genome shotgun sequence
+GL50803_103887	K	K03685	Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Also processes some mRNAs, and tRNAs when they are encoded in the rRNA operon (By similarity)
+GL50803_17036	B	K11426	Set and mynd domain containing
+GL50803_103891	O	K04077	heat shock protein
+GL50803_27266	C	K02259	Ferredoxin
+GL50803_114210	S		von Willebrand factor D and EGF
+GL50803_4197	I, T		phosphatidylinositol transfer protein
+GL50803_16202	U		importin subunit alpha
+GL50803_4192	U	K07943	ADP-ribosylation factor-like
+GL50803_4191	T	K17544	Cyclin-dependent kinase-like
+GL50803_101832	U		High cysteine membrane protein Group 1
+GL50803_16200	T	K06944	GTP-Binding protein
+GL50803_16199	S		Inherit from NOG: Family with sequence similarity 184, member A
+GL50803_114218	Z	K10389	Tubulin is the major constituent of microtubules. Gamma tubulin is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome (By similarity)
+GL50803_d117204	S		regulation of RNA biosynthetic process
+GL50803_117204	S		regulation of RNA biosynthetic process
+GL50803_10976	E		ATP GTP binding
+GL50803_42328	T	K08863,K14242	NIMA-related kinase
+GL50803_15324	D	K03593	Component of the cytosolic iron-sulfur (Fe S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NBP35-CFD1 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins
+GL50803_10969	D	K03593	Component of the cytosolic iron-sulfur (Fe S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NBP35-CFD1 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins
+GL50803_24662	E		Serine dehydratase alpha chain
+GL50803_13603	C	K02150	)-ATPase subunit
+GL50803_8524	O	K00413,K01810	thyroid hormone receptor interactor 13
+GL50803_8523	E	K14997	transmembrane amino acid transporter protein
+GL50803_8518	K	K03000	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)
+GL50803_95269	U		trafficking protein particle complex
+GL50803_8513	S	K06883	GPN-loop GTPase 3
+GL50803_8512			
+GL50803_8508	S	K16781	Tetratricopeptide repeat domain 8
+GL50803_8505	S		TM2 domain
+GL50803_16456	Z	K10394	Kinesin family member
+GL50803_16454	S		basal body component
+GL50803_16453	H	K00926	carbamate kinase
+GL50803_3147	E	K09257	Ankyrin Repeat
+GL50803_113416	O	K07762,K08647	whole genome shotgun sequence
+GL50803_87056	K		Dopey, N-terminal
+GL50803_87058	C	K02148	V-ATPase subunit C
+GL50803_8928	M		Ankyrin Repeat Protein
+GL50803_8929	S	K07053	POLIIIAc
+GL50803_16877		K14821	
+GL50803_16879	T	K14242	Neurofibromin 1
+GL50803_8942	S		chromosome 11 open reading frame 70
+GL50803_8944	U	K07935	RAB, member RAS oncogene family-like 5
+GL50803_16880	G		Major Facilitator Superfamily
+GL50803_8949	E	K14242	Ankyrin Repeat
+GL50803_41186	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_14737	S		Inherit from NOG: basal body component
+GL50803_8587	T	K00924,K08282,K08286	serine threonine-protein kinase
+GL50803_8589	I		SAC1 suppressor of actin mutations 1-like (yeast)
+GL50803_16882	S	K05038,K11768,K14797	K14797 essential nuclear protein 1
+GL50803_8592	S		tubulin tyrosine ligase-like family, member 4
+GL50803_8595	S		small proline-rich protein 3
+GL50803_95847	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17294	S	K08272	Calcium binding protein
+GL50803_15292	S	K12386	PQ loop repeat protein
+GL50803_113439	S		VSP with INR
+GL50803_10810	A	K14823	rRNA-processing protein EBP2
+GL50803_10801	S	K10736,K16608	Tubulin tyrosine ligase-like family, member
+GL50803_17296	G		Major facilitator superfamily
+GL50803_113450	S		VSP with INR
+GL50803_17299	T	K15503	ankyrin repeat
+GL50803_3950			
+GL50803_13500	O	K09500	t-complex protein 1
+GL50803_113456	T	K08333	phosphoinositide-3-kinase, regulatory subunit 4
+GL50803_2750	S	K14773	UTP23, small subunit (SSU) processome component, homolog (yeast)
+GL50803_2753	I	K07252	dolichyl pyrophosphate phosphatase 1
+GL50803_92246	P	K01537,K14950	Cation-transporting atpase
+GL50803_14997			
+GL50803_9605			
+GL50803_9611	S		Fcf2 pre-rRNA processing
+GL50803_15000	K	K03142	Suppressor of stem-loop protein 1
+GL50803_17304	U	K02987,K11824,K14775	Adaptor-related protein complex 2, alpha
+GL50803_9618	S		leucine Rich Repeat
+GL50803_92223	Q		ATP-binding cassette sub-family A ABC1 member
+GL50803_9620	S		basal body component
+GL50803_17305	G		Major Facilitator Superfamily
+GL50803_50345			
+GL50803_5568			
+GL50803_5567	S		Leucine-rich repeat protein
+GL50803_15953	B, K	K08863,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_101594	J, K	K14832	CCAAT enhancer binding protein (C EBP), zeta
+GL50803_8789	I		acyl-CoA-binding domain-containing protein
+GL50803_8794	J	K11128	Required for ribosome biogenesis. Part of a complex which catalyzes pseudouridylation of rRNA. This involves the isomerization of uridine such that the ribose is subsequently attached to C5, instead of the normal N1. Pseudouridine ( psi ) residues may serve to stabilize the conformation of rRNAs
+GL50803_16217	G	K00972	pyrophosphorylase
+GL50803_28635	S		Chitin binding Peritrophin-A domain
+GL50803_8803	E	K10645	Ankyrin Repeat
+GL50803_8805	A		RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+GL50803_23015	O	K00654	Serine palmitoyl-transferase
+GL50803_23017	Y		SRP40, C-terminal domain
+GL50803_101011	S	K10144,K16276	ring finger and CHY zinc finger
+GL50803_21342			
+GL50803_2400	A		processing of precursor 4, ribonuclease P MRP subunit (S. cerevisiae)
+GL50803_13000	C	K02146	ATPase, H transporting, lysosomal 38kDa, V0 subunit
+GL50803_114307	T	K08857,K14242	Neurofibromin 1
+GL50803_16273	S		WD domain, G-beta repeat
+GL50803_16272	T	K05661,K08857,K15502,K15503	NIMA-related kinase
+GL50803_87817	S	K19674	WD repeat domain 35
+GL50803_16269	H	K00953	FAD1 flavin adenine dinucleotide synthetase homolog (S. cerevisiae)
+GL50803_5800	S		START domain
+GL50803_5806		K18626	
+GL50803_16605	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_9834	L	K01142,K10771	Dna-(Apurinic or apyrimidinic site)
+GL50803_9829	I	K00999	cdp-diacylglycerol--inositol 3-phosphatidyltransferase
+GL50803_9827	O	K00384	thioredoxin reductase
+GL50803_9825	L	K04499	DNA helicase which participates in several chromatin remodeling complexes, including the SWR1 and the INO80 complexes. The SWR1 complex mediates the ATP-dependent exchange of histone H2A for the H2A variant HZT1 leading to transcriptional regulation of selected genes by chromatin remodeling. The INO80 complex remodels chromatin by shifting nucleosomes and is involved in DNA repair. Also involved in pre-rRNA processing (By similarity)
+GL50803_9824	O	K02738,K02741	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_21366	S		forebrain astrocyte differentiation
+GL50803_18470	C	K02154	ATPase, H transporting, lysosomal V0 subunit
+GL50803_12820	Q		ATP-binding cassette sub-family A ABC1 member
+GL50803_15930	A	K13117	ATPdependent RNA helicase
+GL50803_27717	S	K05635	Laminin, alpha
+GL50803_6072	S		to trefoil factor
+GL50803_16887	A	K13179	atp-dependent rna helicase
+GL50803_16889	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_16891	S		Chromosome 21 open reading frame 2
+GL50803_7962	O	K02725,K13141	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_7966	S		NACHT, LRR and PYD domains-containing protein
+GL50803_91451	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_37452			
+GL50803_101010			
+GL50803_16893	S	K10317	Kelch domain containing
+GL50803_2098	L	K12614	atp-dependent rna helicase
+GL50803_22454	T	K12493	ADP-ribosylation factor GTPase activating protein
+GL50803_4245	S		spindle-pole body protein
+GL50803_4246	O	K14292	trimethylguanosine synthase
+GL50803_4248	J	K07561	diphthamide biosynthesis protein
+GL50803_3331	C	K00024,K00025,K00051	Malate dehydrogenase
+GL50803_137619	K	K03019	DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)
+GL50803_102858	A		Regulator of nonsense transcripts
+GL50803_16348	O	K19573	Specifically acetylates 'Lys-40' in alpha-tubulin on the lumenal side of microtubules. May affect microtubule stability and regulate microtubule dynamics
+GL50803_115066	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_33218	S	K10409	Dynein, axonemal, intermediate chain 1
+GL50803_2980	O	K02729	The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+GL50803_12598	J	K06961	Required for 40S ribosome biogenesis. Involved in nucleolar processing of pre-18S ribosomal RNA and ribosome assembly (By similarity)
+GL50803_17395	J	K02932,K03327	ribosomal protein L5
+GL50803_15482	E		ATP GTP binding
+GL50803_11713	O	K09549	prefoldin subunit 2
+GL50803_15483	G	K15275	UAA transporter family
+GL50803_115054	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_61359	S	K07441	UDP-N-acetylglucosamine transferase subunit ALG14
+GL50803_115052	Q	K01509,K05031,K05665,K05666,K05668,K05670,K05671,K05672,K05673,K05674,K10827	ATP-binding cassette, sub-family C (CFTR MRP), member
+GL50803_15487	A	K14555	transducin beta-like 3
+GL50803_17393	J	K01866	tyrosyl-tRNA synthetase
+GL50803_4125	K	K15196,K15197	subunit of RNA polymerase III transcription initiation factor
+GL50803_115047			
+GL50803_17391	S		Membrane associated protein-like protein
+GL50803_7664	U	K19682	intraflagellar transport 46 homolog (Chlamydomonas)
+GL50803_7662	A	K06174	ATP-binding cassette, sub-family E
+GL50803_7661	S		kiaa0556
+GL50803_17390	L	K02542	dna replication licensing factor
+GL50803_6336	Z	K07375,K10391	Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha chain (By similarity)
+GL50803_6335	Q	K01823	isopentenyl-diphosphate Delta-isomerase
+GL50803_14174	S	K14848	Glutamate-rich wd repeat-containing protein
+GL50803_17389	J	K07566	yrdC domain containing (E. coli)
+GL50803_14172	T	K08829	Male germ cell-associated kinase
+GL50803_14171	J	K02922	Binds to the 23S rRNA (By similarity)
+GL50803_6886	S	K19846	cell polarity protein
+GL50803_14311	G, T	K15423	serine threonine-protein phosphatase
+GL50803_6897	S	K12472	BRCT domain protein
+GL50803_17387	A	K14780	(RNA) helicase
+GL50803_17386	O	K10587,K10614	domain containing E3 ubiquitin protein ligase
+GL50803_33279	O	K07762,K08647	whole genome shotgun sequence
+GL50803_5672	S	K16457	centrosomal protein 76kDa
+GL50803_6509	S	K02599,K18408	Notch ligand involved in the mediation of Notch signaling (By similarity)
+GL50803_89622	U	K12393	Adaptor-related protein complex
+GL50803_34134	L	K03469	ribonuclease H activity
+GL50803_9098	S	K19680	TNF receptor-associated factor 3 interacting protein 1
+GL50803_14864	Z		Filamin C, gamma
+GL50803_137733	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_9089	C	K00101,K00326	cytochrome b5 reductase
+GL50803_9088	V	K03152,K07466	parkinson protein 7
+GL50803_9087	S		chromosome X open reading frame 26
+GL50803_14861	S		whole genome shotgun sequence
+GL50803_103838	T	K17545	Serine threonine kinase
+GL50803_16598	M	K00966	mannose-1-phosphate guanyltransferase
+GL50803_10679	S	K06875	Apoptosis-related protein
+GL50803_16599	C	K08043	CYCc
+GL50803_3974	K	K03022	dna-directed RNA polymerase III
+GL50803_3977	D	K02220,K05868,K06627	g2 mitotic-specific
+GL50803_3978	O	K06689,K10689	ubiquitin-conjugating enzyme
+GL50803_114991	S	K02599	WNT inhibitory factor 1
+GL50803_16966	S		Mediates binding to human platelets, possibly through a receptor-ligand interaction. Probably associated with virulence in endovascular infection (By similarity)
+GL50803_16967	M	K14242,K15502,K15503	Ankyrin Repeat Protein
+GL50803_7349			
+GL50803_14433	S		Ankyrin Repeat
+GL50803_14434	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_7356	T	K01104,K09257	serine threonine-protein kinase
+GL50803_103855	U	K07095,K18467	Vacuolar Protein
+GL50803_14436	T	K08271,K08835,K17532	ste20-related kinase adaptor
+GL50803_16969	U	K15306	ran binding protein
+GL50803_25035	T		protein tyrosine phosphatase, receptor type, G
+GL50803_137732	S	K02599	WNT inhibitory factor 1
+GL50803_8003	U		trafficking protein particle complex
+GL50803_8001	J	K02877,K15276	Ribosomal protein L15
+GL50803_14606	J	K03264	Binds to the 60S ribosomal subunit and prevents its association with the 40S ribosomal subunit to form the 80S initiation complex in the cytoplasm
+GL50803_7999	J	K02985	ribosomal protein s3
+GL50803_117472			
+GL50803_101534	T	K08863	NIMA-related kinase
+GL50803_117473			
+GL50803_8389	O	K12196	endosome to lysosome transport via multivesicular body sorting pathway
+GL50803_8388	E	K06653	Ankyrin Repeat
+GL50803_23185	D	K06674	structural maintenance of chromosomes protein
+GL50803_15097	S	K17095,K17099	annexin A7
+GL50803_114609	P		Pyruvate ferredoxin oxidoreductase
+GL50803_23800	S	K16075	corA-like Mg2 transporter domain-containing protein
+GL50803_11740	T	K01090	PHOsphatase
+GL50803_101397	E	K06653	Ankyrin Repeat
+GL50803_11743	K		M protein repeat protein
+GL50803_104866	K		Protein of unknown function (DUF667)
+GL50803_137730	T		calcium-dependent protein kinase
+GL50803_11755	J	K14842	Ribosomal protein S8e
+GL50803_11763	H	K00949	thiamine pyrophosphokinase
+GL50803_11772	T		Plexin repeat
+GL50803_15499	S		Inherit from NOG: basal body component
+GL50803_15500	S	K12859	Thioredoxin-like protein
+GL50803_11775	M		Ankyrin Repeat Protein
+GL50803_17412			
+GL50803_15501	D, K, T	K08817	Cell cycle control protein
+GL50803_17411	O	K09495	t-complex protein 1
+GL50803_137729	O	K07762,K08647	whole genome shotgun sequence
+GL50803_14485	E	K06653	Ankyrin Repeat
+GL50803_7569	U	K07953,K08057	Small GTPase component of the coat protein complex II (COPII) which promotes the formation of transport vesicles from the endoplasmic reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules. SAR1 controls the coat assembly in a stepwise manner. Activated SAR1-GTP binds to membranes first and recruits the SEC23 24 complex. These SEC23 24-SAR1 prebudding intermediates are then collected by the SEC13 31 complex as subunits polymerize to form coated transport vesicles. Conversion to SAR1-GDP triggers coat release and recycles COPII subunits (By similarity)
+GL50803_14486	S		Pfam:YbaK
+GL50803_7573	I	K00021	hydroxymethylglutaryl-CoA reductase, degradative family protein
+GL50803_3036	K	K03008	dna-directed RNA polymerase II
+GL50803_3032	J	K01867	tryptophanyltRNA synthetase
+GL50803_17406	T	K00914	Phosphatidylinositol 3kinase
+GL50803_25296	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_15404	S	K01727	hyaluronate lyase
+GL50803_17403	U		Uso1 / p115 like vesicle tethering protein, head region
+GL50803_17402	E	K10645	Ankyrin Repeat
+GL50803_15400	S		small proline-rich protein 3
+GL50803_17400	S	K06654,K06656,K06657,K18636	Cyclin-dependent protein kinase
+GL50803_15398	O	K03686,K09503,K14002	DnaJ (Hsp40) homolog, subfamily A, member
+GL50803_11321	S		WD repeat domain 65
+GL50803_15397	D	K00870,K02088,K02206	Cyclin-Dependent Kinase
+GL50803_11319	A	K14560	u3 small nucleolar ribonucleoprotein
+GL50803_20633	K	K15153	Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors
+GL50803_29490	S		copine family
+GL50803_2964	U	K12948	Microsomal signal peptidase subunit
+GL50803_91761	U	K19998	Sec1 family
+GL50803_3169	O	K01365	cathepsin
+GL50803_3171	O	K10575	ubiquitin-conjugating enzyme
+GL50803_15871	O	K01285	protease, serine, 16 (thymus)
+GL50803_14938	J	K02870,K14006	Ribosomal protein L12
+GL50803_9376	U	K14006	transport protein
+GL50803_112063	G	K08151,K08153,K08161	resistance protein
+GL50803_9382	O	K05954	farnesyltransferase, beta subunit
+GL50803_31295	V	K03327	Mate efflux family protein
+GL50803_50359	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_134710	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_17084	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_14367	T	K01768	CYCc
+GL50803_7126	S		Acyltransferase
+GL50803_40817	Z	K05692	Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells
+GL50803_17083	S		AHNAK nucleoprotein
+GL50803_17082	O	K02211,K05956	beta' subunit
+GL50803_34850	S		transmembrane protein 167B
+GL50803_33762	K	K16482	POC1 centriolar protein homolog
+GL50803_24068	O	K02332,K10577	ubiquitin-conjugating enzyme
+GL50803_2933	S	K13978	grancalcin, EF-hand calcium binding protein
+GL50803_5468	T		Ribosomal protein S6
+GL50803_96670	P	K01539,K01541,K01542,K01544	ATPase Na K transporting alpha
+GL50803_50363			
+GL50803_8350	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_16215	M		Ankyrin Repeat Protein
+GL50803_16214	L	K02541	dna replication licensing factor
+GL50803_6007	E	K14242	Ankyrin Repeat
+GL50803_137727	S	K02599	WNT inhibitory factor 1
+GL50803_16438	O		Ulp1 protease family, C-terminal catalytic domain
+GL50803_8850	S		Ankyrin Repeat
+GL50803_14787	U	K01099,K01106,K03084	inositol
+GL50803_14786	T	K00870,K04427	protein kinase kinase kinase
+GL50803_8843	O	K04551,K08770	ubiquitin
+GL50803_8842	S	K06874	Zinc finger protein
+GL50803_14785			
+GL50803_96818	P	K15014	transporter
+GL50803_678	F	K01081	5', 3'-nucleotidase, cytosolic
+GL50803_102963	J	K15865	CDK5 regulatory subunit associated protein 1-like 1
+GL50803_36783	T	K08863	NIMA-related kinase
+GL50803_4498	A	K13148,K14403	Cleavage and polyadenylation
+GL50803_102961	S	K01046,K08680,K13617	Alpha beta hydrolase
+GL50803_9503	S	K01046,K08680,K13617	Alpha beta hydrolase
+GL50803_9508	O	K06972	Presequence protease
+GL50803_16326	E	K06653	Ankyrin Repeat
+GL50803_9515	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_16328	A	K01718,K14655,K15453,K15454	RNA pseudouridylate synthase domain containing
+GL50803_14971			
+GL50803_9523	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_24376	L	K19783	immunoglobulin mu binding protein 2
+GL50803_137726	Q	K05641	ATP-binding cassette sub-family A ABC1 member
+GL50803_16612	J	K01866	Tyrosyl-trna synthetase
+GL50803_9062	I	K01897	Acyl-CoA synthetase long-chain family member
+GL50803_93721	S		Cyclin Y
+GL50803_113677	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_7009			
+GL50803_7007	S		C-Myc binding protein
+GL50803_93736	Z	K10408,K10413,K10414	heavy chain
+GL50803_16167	T	K04373,K07376,K09257	ribosomal protein s6 kinase
+GL50803_61419	M		Ankyrin Repeat Protein
+GL50803_61420	M		Ankyrin Repeat Protein
+GL50803_112681	O	K06027	n-ethylmaleimide-sensitive factor
+GL50803_50366			
+GL50803_61439	T		Ribosomal protein S6
+GL50803_61443	S		Retrotransposon protein
+GL50803_61458	K		Chromosome 2 open reading frame 18
+GL50803_50370	S		regulation of RNA biosynthetic process
+GL50803_137614	S		VSP with INR
+GL50803_1830	A	K01718	RNA pseudouridylate synthase domain containing
+GL50803_94534			
+GL50803_7655	O	K07374,K18272	Tubulin folding cofactor C
+GL50803_103082	S		Mediates binding to human platelets, possibly through a receptor-ligand interaction. Probably associated with virulence in endovascular infection (By similarity)
+GL50803_7653	T	K00870,K08269	Serine threonine kinase
+GL50803_7652	J	K03754	translation INITIATION FACTOR
+GL50803_7649	L	K02114,K10747	DNA ligase
+GL50803_7648	L		Structural maintenance of chromosomes
+GL50803_16149	L	K08734	DNA mismatch repair protein
+GL50803_94510	S		WNT inhibitory factor 1
+GL50803_16205	T		Unc51-like kinase
+GL50803_112932	S	K06990	Mediator of cell motility 1
+GL50803_3490	T	K08857	Neurofibromin 1
+GL50803_13372			
+GL50803_112937	E	K09257	Ankyrin Repeat
+GL50803_102542	T	K04371,K08818,K12765	Male germ cell-associated kinase
+GL50803_61472	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_221689	Q	K05668,K05674	ATP-binding cassette, sub-family C (CFTR MRP), member
+GL50803_61478	O	K12196	endosome to lysosome transport via multivesicular body sorting pathway
+GL50803_137691			
+GL50803_16001	H	K11204	Glutamate--cysteine ligase
+GL50803_4977	T	K08857	NIMA-related kinase
+GL50803_13797	Z	K10396	Kinesin family member
+GL50803_27308	Z	K10412	Dynein light chain
+GL50803_15962	Z	K10394,K10402	Kinesin family member
+GL50803_89112	L	K02209	dna replication licensing factor
+GL50803_33166	O	K03028	26s proteasome regulatory subunit
+GL50803_13152	E	K09257,K18410	Ankyrin Repeat
+GL50803_2851	B	K11304	histone acetyltransferase
+GL50803_61489	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_61490	T	K04371,K08818,K12765	Male germ cell-associated kinase
+GL50803_135725	E	K09257	Ankyrin Repeat
+GL50803_15823	G	K00700	Branching enzyme
+GL50803_33037	S		zinc finger, MYND-type containing 12
+GL50803_15889	G	K00749,K01001,K01183	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)
+GL50803_40521	J	K14574	Ribosome maturation protein
+GL50803_12807	C, O	K00773	thioredoxin domain-containing protein
+GL50803_112126	S	K05635	Laminin, alpha
+GL50803_137612	S		VSP with INR
+GL50803_3822	S	K01277	dipeptidylpeptidase
+GL50803_137695	T	K08826	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase
+GL50803_4026	S	K17095,K17099	annexin A7
+GL50803_16013			
+GL50803_2285			
+GL50803_112114	A	K12856	PRP8 pre-mRNA processing factor 8 homolog (S. cerevisiae)
+GL50803_112113	S		VSP with INR
+GL50803_50375	S		VSP with INR
+GL50803_13727	S		regulation of RNA biosynthetic process
+GL50803_13728	O		proprotein convertase subtilisin kexin type
+GL50803_114670	L	K02684,K16733	DNA primase
+GL50803_22204	J	K01874	MethionyltRNA synthetase
+GL50803_8627	K	K19849	Inherit from euNOG: Rna-binding protein
+GL50803_8626	D, Y	K07611,K12641	Lamin A C
+GL50803_8623		K10352	
+GL50803_89347	K	K03006	DNA-directed RNA Polymerase
+GL50803_8621	J	K01869	Leucyl-trna synthetase
+GL50803_8619	M	K16675	Zinc finger, DHHC-type containing
+GL50803_14745	S		Ankyrin repeat protein
+GL50803_16220	S		Ankyrin Repeat
+GL50803_61549	T		calcium-dependent protein kinase
+GL50803_61550	C	K05919	desulfoferrodoxin ferrous iron-binding region
+GL50803_102322			
+GL50803_3539	M		zinc finger, DHHC-type containing 16
+GL50803_41227	S		regulation of RNA biosynthetic process
+GL50803_95789	L	K03424	TatD DNase domain containing
+GL50803_95787	S	K14965,K14968	COMPASS complex subunit Sdc1
+GL50803_13584	S		Membrane associated protein-like protein
+GL50803_41212		K18626	
+GL50803_61564	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_61565	S	K12472	Viral A-type inclusion protein
+GL50803_50379			
+GL50803_50380	S		FU
+GL50803_7035			
+GL50803_33769	S	K17869	pyridine nucleotide-disulfide oxidoreductase
+GL50803_7031	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_7030	S		Prefoldin, subunit
+GL50803_88765	O	K03283	heat shock
+GL50803_16173	A	K14561	u3 small nucleolar ribonucleoprotein
+GL50803_7021	E	K06653	Ankyrin Repeat
+GL50803_14341	S		whole genome shotgun sequence
+GL50803_16172	Z		actin-like 9
+GL50803_101810	P	K01530	ATPase class II type
+GL50803_15820	O	K05955	Protein farnesyltransferase geranylgeranyltransferase type-1 subunit
+GL50803_35670	S	K03243,K06185	zinc finger
+GL50803_16588	J	K02943	60s Acidic ribosomal protein
+GL50803_101805	U		High cysteine membrane protein Group 1
+GL50803_16587	T	K08282,K08884,K11916	serine- threonine protein kinase
+GL50803_61578	T	K10645	Neurofibromin 1
+GL50803_1470	S		schlafen-like 1
+GL50803_16585	L	K12874	Inherit from KOG: Aquarius homolog (Mouse)
+GL50803_87358			
+GL50803_22677	C		nitroreductase
+GL50803_6148	O		dipeptidylpeptidase
+GL50803_2902	D	K02156	piwi-like
+GL50803_3409	S		Coiled-coil domain containing 147
+GL50803_3408	T	K17550,K19753	leucine rich repeat
+GL50803_3180	K	K00721	dolicholphosphate mannosyltransferase
+GL50803_8960	S	K01046,K08680,K13617	Alpha beta hydrolase
+GL50803_8961	E	K10645	Ankyrin Repeat
+GL50803_16495	I	K01613	Phosphatidylserine decarboxylase
+GL50803_14821	C, U		iron-sulfur cluster assembly 2 homolog (S. cerevisiae)
+GL50803_16492			
+GL50803_22547	U		Fraser syndrome 1
+GL50803_8896	J		Metallopeptidase family M24
+GL50803_87422			
+GL50803_14800	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_8903	S		copine family
+GL50803_14802	S		AHNAK nucleoprotein
+GL50803_16675	O	K14050	Protein prenyltransferase alpha subunit repeat
+GL50803_35094	L	K02327,K02350	DNA polymerase
+GL50803_22553	O	K01275	cathepsin
+GL50803_8856	T	K08838,K17535	mitogen-activated protein kinase kinase
+GL50803_28651	O	K01275	cathepsin
+GL50803_8860	B, K	K08867,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_16678	Y	K14306	Nsp1-like C-terminal region
+GL50803_8865			
+GL50803_14791	S		Neurohypophysial hormone, N-terminal Domain containing protein
+GL50803_13930	U	K07937,K07977	ADP-ribosylation
+GL50803_5462	Z		Tubulin is the major constituent of microtubules. Gamma tubulin is found at microtubule organizing centers (MTOC) such as the spindle poles or the centrosome (By similarity)
+GL50803_16020	T		LRR
+GL50803_13926	A	K11129	H ACA ribonucleoprotein complex subunit
+GL50803_87446	Q		ATP-binding cassette sub-family A ABC1 member
+GL50803_61593			
+GL50803_13838	B, K	K11422	Set domain
+GL50803_17174	I		Acyl-CoA synthetase long-chain family member
+GL50803_17170	I		Acyl-CoA synthetase long-chain family member
+GL50803_7375	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_7373	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_7368	O		Plays a central role in 2-thiolation of mcm(5)S(2)U at tRNA wobble positions of tRNA(Lys), tRNA(Glu) and tRNA(Gln). Directly binds tRNAs and probably acts by catalyzing adenylation of tRNAs, an intermediate required for 2-thiolation. It is unclear whether it acts as a sulfurtransferase that transfers sulfur from thiocarboxylated urm1 onto the uridine of tRNAs at wobble position
+GL50803_2661	D	K02219	(regulatory) subunit
+GL50803_17166			
+GL50803_17165	Q		Inherit from NOG: Regulator of G-protein signaling
+GL50803_17164	U	K14007	transport protein
+GL50803_17163	O	K03768	PPIases accelerate the folding of proteins (By similarity)
+GL50803_11867	S		RIB43A
+GL50803_d115797	S		VSP with INR
+GL50803_115797	S		VSP with INR
+GL50803_33870	C	K00101,K00326	cytochrome b5 reductase
+GL50803_14345	Z	K04648,K10392,K11498	kinesin K39
+GL50803_14347	T		FHA domain
+GL50803_17043	G	K00134,K05298	glyceraldehyde3phosphate dehydrogenase
+GL50803_17044	T	K06695	interacting protein
+GL50803_17046	E	K10645	Ankyrin Repeat
+GL50803_12981	J	K02989	Ribosomal protein
+GL50803_2351	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_d112208	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_112208	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_17347	S		Regulatory subunit of type II PKA R-subunit
+GL50803_94150	S		family with sequence similarity 179, member A
+GL50803_13528	U		Vacuolar protein sorting-associated protein 33 homolog
+GL50803_4063	K		CTD (Carboxy-terminal domain, RNA polymerase II, polypeptide A) small
+GL50803_5949	S		tetratricopeptide repeat domain 1
+GL50803_5947	J	K01952,K02917,K09377	Ribosomal protein
+GL50803_14070	Z	K10395,K10398	kinesin family member 11
+GL50803_5942	S	K13126	poly(A) binding protein, cytoplasmic
+GL50803_5939	U	K04710	ceramide synthase
+GL50803_5938	K	K12860	cell division cycle 5-like
+GL50803_14068	U		trafficking protein particle complex
+GL50803_13133	T		IG_like
+GL50803_14014	T		Di-glucose binding within endoplasmic reticulum
+GL50803_23420	H	K01597	GHMP kinases N terminal domain
+GL50803_14168	E	K14993,K14994	Solute carrier family 38 member
+GL50803_6317	O		Zn-finger in ubiquitin-hydrolases and other protein
+GL50803_27813	T		calcium-dependent protein kinase
+GL50803_17337	J	K02869,K02942	Ribosomal protein
+GL50803_3993	S	K14787,K15188	RNA binding motif protein 19
+GL50803_3994	O	K14016	Ubiquitin fusion degradation protein
+GL50803_17335	T	K01196,K08282,K08826,K08832,K14834,K18669,K18670	SRSF protein kinase
+GL50803_17333	Z	K10394	Kinesin family member
+GL50803_4653	V	K13963	Serpin peptidase inhibitor, clade
+GL50803_4652	J	K02960,K02996	ribosomal protein s16
+GL50803_87261	S		PLAC8 family
+GL50803_10193	S	K14554,K16353	WD repeat domain 36
+GL50803_17328	S		Neurohypophysial hormone, N-terminal Domain containing protein
+GL50803_17327	E	K14213,K18573	Catalyzes the removal of a penultimate prolyl residue from the N-termini of peptides (By similarity)
+GL50803_17326	V		MatE
+GL50803_17325	J	K17943	Rna-binding protein
+GL50803_112258	U	K18442	ADP-ribosylation factor guanine nucleotide-exchange factor
+GL50803_33513	S		centromere protein F, 350 400kDa (mitosin)
+GL50803_23439	S		TM2 domain
+GL50803_10577	A, J	K14564	Nucleolar protein
+GL50803_15248	U	K02179,K19944	TBC1 domain family member
+GL50803_15247	O		heat shock protein
+GL50803_10573	S		Ankyrin repeat protein
+GL50803_10570	O	K01802,K14826,K17478	peptidylprolyl cistrans isomerase
+GL50803_10569	S	K14786	KRI1-like family
+GL50803_17273			
+GL50803_87208	J	K07583	Pseudouridylate synthase 10
+GL50803_87205	L	K10841,K20093	excision repair cross-complementing rodent repair deficiency complementation group
+GL50803_87202	S	K19683	Plays a role in anterograde intraflagellar transport (IFT), the process by which cilia precursors are transported from the base of the cilium to the site of their incorporation at the tip
+GL50803_61627			
+GL50803_7829	S		conserved hypothetical protein
+GL50803_103202	Z		Inherit from NOG: keratin, type II cytoskeletal
+GL50803_117436	E	K10645	Ankyrin Repeat
+GL50803_117437	E	K10645	Ankyrin Repeat
+GL50803_16804	Z	K10408	Dynein, axonemal, heavy chain
+GL50803_9848	Z	K10418	Dynein light chain
+GL50803_15064	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_15063	I	K01897,K09680,K14403	Acyl-CoA synthetase long-chain family member
+GL50803_17264	Z	K10396	Kinesin family member
+GL50803_104139	S	K05635	Laminin, alpha
+GL50803_17263	B	K11307	histone acetyltransferase
+GL50803_17262	J	K17943	pumilio homolog
+GL50803_14636	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_17258	F	K18532	adenylate kinase
+GL50803_61641	E	K06653	Ankyrin Repeat
+GL50803_93800	E	K06653	Ankyrin Repeat
+GL50803_16436			
+GL50803_16435	E	K06653,K09257,K14508,K19626	Ankyrin Repeat
+GL50803_87149	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_7522	J		Basic leucine zipper and W2
+GL50803_7520	S		Inherit from euNOG: Conserved hypothetical protein
+GL50803_28232	S		peptidyl-tRNA hydrolase domain containing 1
+GL50803_7514	S		forebrain astrocyte differentiation
+GL50803_7512	S	K02377,K10703	Protein tyrosine phosphatase-like
+GL50803_7511	F	K01519	Pyrophosphatase that hydrolyzes non-canonical purine nucleotides such as inosine triphosphate (ITP), deoxyinosine triphosphate (dITP) or xanthosine 5'-triphosphate (XTP) to their respective monophosphate derivatives. The enzyme does not distinguish between the deoxy- and ribose forms. Probably excludes non-canonical purines from RNA and DNA precursor pools, thus preventing their incorporation into RNA and DNA and avoiding chromosomal lesions (By similarity)
+GL50803_14469	U	K08513	K08513 vesicle-associated membrane protein 4
+GL50803_113625	B	K11314	Zinc finger, ZZ type
+GL50803_16433	E	K16262	amino acid transporter
+GL50803_40831	S		Inherit from NOG: Viral A-type inclusion protein
+GL50803_113622	S		Ankyrin Repeat
+GL50803_15145	O	K11269	ATPase family associated with various cellular activities (AAA)
+GL50803_15144	K	K03016	RPOL8c
+GL50803_10219	S		Ankyrin Repeat
+GL50803_10217	O		cathepsin
+GL50803_50391	O		proprotein convertase subtilisin kexin type
+GL50803_8382	Q	K11165,K11166,K15680	Dehydrogenase reductase SDR family member
+GL50803_16929	O	K03035,K14795	26S Proteasome non-ATPase regulatory subunit
+GL50803_16928	M	K00698,K18932	zinc finger, DHHC-type containing 16
+GL50803_113610	M	K03857	phosphatidylinositol glycan anchor biosynthesis, class A
+GL50803_5883	S	K08254,K12472	oligomeric mucus gel-forming
+GL50803_5892	J	K06965	pelota homolog
+GL50803_14058	T	K01120	Phosphodiesterase
+GL50803_113603	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_13651	K		TATA element modulatory factor 1
+GL50803_4547	J	K02997	Ribosomal protein s9
+GL50803_4548	J	K17943	pumilio homolog
+GL50803_4549	S	K10260	F-box and WD repeat domain containing 7, E3 ubiquitin protein ligase
+GL50803_115465	L	K10567	nei endonuclease VIII-like 1 (E. coli)
+GL50803_115695	S		SprT-like N-terminal domain
+GL50803_50392			
+GL50803_112647			
+GL50803_115694	S		SprT-like N-terminal domain
+GL50803_115464	L	K10567	nei endonuclease VIII-like 1 (E. coli)
+GL50803_9478	O		peptidase m16 domain-containing protein
+GL50803_14961	C	K02144	subunit (H
+GL50803_9481			
+GL50803_4577			
+GL50803_15956	S		WD repeat domain 16
+GL50803_15955	K	K03014	DNA-directed RNA polymerases I, II and III
+GL50803_16069	G	K01840	Inherit from COG: Catalyzes the conversion of glucosamine-6-phosphate to glucosamine-1-phosphate (By similarity)
+GL50803_5926	M	K15502,K15503	Ankyrin Repeat Protein
+GL50803_5925	L	K10848,K15086	DNA repair protein
+GL50803_94322	O		iQ motif containing with AAA domain
+GL50803_4257	J	K14771	nucleolar complex protein
+GL50803_4255	G	K17757	Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ATP, which is converted to ADP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration (By similarity)
+GL50803_27027	S	K11295,K18643	Katanin p80 (WD repeat containing) subunit B 1
+GL50803_33932	T		Suppression of tumorigenicity 5
+GL50803_112673	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_89315			
+GL50803_4204	L	K18447	nudix (nucleoside diphosphate linked moiety X)-type motif 5
+GL50803_13561	K	K03232,K15410	Elongation factor
+GL50803_4202	T	K00870,K08269	Serine threonine kinase
+GL50803_16760	J	K01890	Phenylalanyl-tRNA synthetase, beta
+GL50803_61675	O		cathepsin
+GL50803_15545	S		Inherit from NOG: KH domain containing 3-like, subcortical maternal complex member
+GL50803_11984	J	K14852	ribosome biogenesis regulatory protein
+GL50803_15547	S		zinc finger, MYND-type containing 12
+GL50803_15548	T	K13105	Mitogen-activated protein kinase
+GL50803_15549	P		tetratricopeptide repeat
+GL50803_11992	O	K09497	chaperonin containing TCP1, subunit 5 (epsilon)
+GL50803_15551	J	K02964	ribosomal protein
+GL50803_d26981	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_26981	O	K01359	proprotein convertase subtilisin kexin type
+GL50803_32778	E	K06653	Ankyrin Repeat
+GL50803_5665	O	K02927	Ribosomal L40e family
+GL50803_14004	T	K08830	Male germ cell-associated kinase
+GL50803_101850	T	K08825	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase
+GL50803_5661	A	K14831	MAK16 homolog (S. cerevisiae)
+GL50803_5659	H	K00789	Catalyzes the formation of S-adenosylmethionine from methionine and ATP (By similarity)
+GL50803_16722	E		Xaa-pro dipeptidase
+GL50803_7414	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_7416	Q	K10770,K15444	alkB, alkylation repair homolog 8 (E. coli)
+GL50803_14451	L	K14779	purine NTP-dependent helicase activity
+GL50803_7421	D, K, T	K03115	casein kinase ii
+GL50803_112885	F	K00759	adenine phosphoribosyltransferase
+GL50803_6000	E		amino acid
+GL50803_5999	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_14083	S	K14721	Sin-like protein conserved region
+GL50803_37985	Z		heavy chain
+GL50803_61708	S	K16912	LAS1-like (S. cerevisiae)
+GL50803_16728	T	K01110	PHOsphatase
+GL50803_16729	S	K16488	Family with sequence similarity 184, member A
+GL50803_2013	O	K07390	Glutaredoxin
+GL50803_16833	S		WNT inhibitory factor 1
+GL50803_2101	F	K01489	cytidine deaminase
+GL50803_16834	T	K06683,K08838	mitogen-activated protein kinase kinase kinase
+GL50803_10840	K	K03020,K03027	DNA-directed RNA polymerases I and III
+GL50803_29327	U	K12191	Charged multivesicular body protein
+GL50803_10843	O		protease, serine, 16 (thymus)
+GL50803_15304	B, K	K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_15305	S	K01069	Hydroxyacylglutathione hydrolase
+GL50803_15306	E	K10645	Ankyrin Repeat
+GL50803_10855	E	K09257,K18410	Ankyrin Repeat
+GL50803_10856	U	K15296	attachment protein
+GL50803_10858	K, O		chromosome 12 open reading frame 10
+GL50803_15307	S		Nitroreductase family
+GL50803_14400	U, Y	K14297	Nuclear protein 96
+GL50803_7246	O	K09570	Peptidyl-prolyl cis-trans isomerase
+GL50803_14401	Z	K04648,K10392,K11498	kinesin K39
+GL50803_91643	O	K03032	26S proteasome
+GL50803_21750	F	K00948	ribose-phosphate pyrophosphokinase
+GL50803_103285	J	K14415,K14550	U3 small nucleolar RNA-associated protein 10
+GL50803_15219	S	K12472	Viral A-type inclusion protein
+GL50803_10459	J	K02920,K14566	FCF1 small subunit (SSU) processome component homolog (S. cerevisiae)
+GL50803_15218	S		WD repeat domain 16
+GL50803_15216	S		Spermatogenesis associated 4
+GL50803_10450	O	K01802,K03773,K09568,K09571	Peptidyl-prolyl cis-trans isomerase
+GL50803_15215	G, T	K15423	serine threonine-protein phosphatase
+GL50803_15214	G, T	K15423	serine threonine-protein phosphatase
+GL50803_16636	U	K07877,K07878,K07976	Ras-related protein
+GL50803_32786	S	K05635	Laminin, alpha
+GL50803_2796	T	K04409,K04410,K08838	serine threonine-protein kinase
+GL50803_16639	B, K	K07179,K07739	Elongator complex protein
+GL50803_113163	S		regulation of RNA biosynthetic process
+GL50803_90418	S		family with sequence similarity 135, member
+GL50803_3313	E	K00830	Aminotransferase
+GL50803_17501	S		Zinc finger protein
+GL50803_5921	O	K10578,K14965	ubiquitin-conjugating enzyme
+GL50803_14064	B		high mobility group
+GL50803_5919	P		Metal tolerance protein
+GL50803_17502	G	K05284	Mannosyltransferase
+GL50803_5910	A	K17677	Dead deah box helicase
+GL50803_90402	F		adenylate kinase
+GL50803_32398	T	K04354	protein phosphatase 2, regulatory subunit B
+GL50803_10822	S	K14810	WD repeat domain phosphoinositide-interacting protein
+GL50803_15295	S		ring finger and CHY zinc finger
+GL50803_10825	L	K03546	Involved in DNA double-strand break repair (DSBR). The Rad50 Mre11 complex possesses single-strand endonuclease activity and ATP-dependent double-strand-specific 3'-5' exonuclease activity. Rad50 provides an ATP-dependent control of Mre11 by unwinding and or repositioning DNA ends into the Mre11 active site (By similarity)
+GL50803_15297	G	K00852	ribokinase
+GL50803_10829	G	K02564,K03549	Glucosamine-6-phosphate
+GL50803_90425	K		Chromosome 2 open reading frame 18
+GL50803_113143	U		Beige BEACH domain containing protein
+GL50803_17505	D	K06627	Cyclin, C-terminal domain
+GL50803_10254	Z		WD repeat domain 78
+GL50803_10255	J	K03257,K13025	ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome. In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon
+GL50803_113137	S	K15492	Component of the spindle pole body (SPB) required for the proper execution of spindle pole body (SPB) duplication. Potential role in cross-linking filaments or anchoring other molecules. It is essential for growth (By similarity)
+GL50803_10261	K		MIZ/SP-RING zinc finger
+GL50803_17508	S	K07608,K07610	Intermediate filament protein
+GL50803_113133			
+GL50803_15156	U	K03106	Signal recognition particle
+GL50803_15157			
+GL50803_15158	S		VSP with INR
+GL50803_61724	T		Ribosomal protein S6
+GL50803_17510	B, K	K08863,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_87628	S		regulation of RNA biosynthetic process
+GL50803_20802	S	K01965,K15308,K18753	zinc finger
+GL50803_6584	S	K06654	CYC2-like cyclin
+GL50803_22802	J	K14574	Ribosome maturation protein
+GL50803_22806	S		coiled-coil domain containing 96
+GL50803_7748	O	K01359,K08654,K12813	proprotein convertase subtilisin kexin type
+GL50803_22808	J	K01892	Histidyl-trna synthetase
+GL50803_14670	O	K01829,K08056,K09580,K13996	Protein disulfide isomerase
+GL50803_8245	G	K02564,K03549	Glucosamine-6-phosphate
+GL50803_8243	L	K02350,K14567	Small nucleolar
+GL50803_8242	J	K11130	more specifically in 18S rRNA pseudouridylation and in cleavage of pre-rRNA (By similarity)
+GL50803_8241	O	K03868,K06265	RinG-box protein
+GL50803_8235	B, K	K08286,K15503	ankyrin repeat, family A (RFXANK-like), 2
+GL50803_17516	O		cathepsin
+GL50803_8228	K	K01509,K11654,K11727	SWI SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member
+GL50803_8227	Q		(ABC) transporter
+GL50803_87677	T	K08863,K15502,K15503	NIMA-related kinase
+GL50803_4502	U	K10949	Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi (By similarity)
+GL50803_17518	S	K17608	Striatin, calmodulin binding protein
+GL50803_8064	O	K09584,K13984,K13996	Protein disulfide isomerase
+GL50803_8061	K	K12580	CCR4-NOT transcription complex, subunit 3
+GL50803_14622	J	K02873,K10755	60S ribosomal protein L13
+GL50803_14620	J	K02991	40s ribosomal protein s6
+GL50803_17520	O	K03695	Heat shock protein
+GL50803_2483	T	K05661,K08857,K15503	NIMA-related kinase
+GL50803_38901			
+GL50803_113094	T		Ribosomal protein S6
+GL50803_61815	S		Retrotransposon protein
+GL50803_61818	S		Retrotransposon protein
+GL50803_60547	S		Retrotransposon protein
+# 2819 queries scanned			
+# Total time (seconds): 496.937583923			
+# Rate: 5.67 q/s			

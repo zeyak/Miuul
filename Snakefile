@@ -7,8 +7,8 @@ rule all:
         #"output/tRNA_scan_result.txt",
         #"output/G_intestinalis.tRNA",
         #expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
-        #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"])
-        "output/orthofinder/",
+        #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"]),
+        expand("output/orthofinder/{genome}.fasta", genome=["G_muris_aa", "G_intestinalis_aa", "S_salmonicida_aa"]),
 
 rule tRNAscan:
    input: "resource/genome/G_intestinalis.fasta"
@@ -79,10 +79,21 @@ rule blastn:
 
 rule orthofinder:
     input:
-        fasta = "resource/orthofinder/",
+        fasta = "resource/orthofinder/{genome}.fasta",
     output:
           directory('output/orthofinder/')
     conda:
         "env/env.yaml"
     script:
           "scripts/2_BioinformaticsTools/orthofinder.py"
+
+rule barrnap:
+    input:
+        genome = "resource/14_barRNAp/{genome}.fasta"
+    output:
+        barrnap_gff = "output/barrnap/{genome}_rrna_count.gff"
+
+    conda: "env/hinflata.yaml"
+
+    shell:
+        """barrnap --kingdom euk --quiet {input.genome} > {output.barrnap_gff}"""

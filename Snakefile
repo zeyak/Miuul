@@ -8,7 +8,8 @@ rule all:
         #"output/G_intestinalis.tRNA",
         #expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
         #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"]),
-        expand("output/orthofinder/{genome}.fasta", genome=["G_muris_aa", "G_intestinalis_aa", "S_salmonicida_aa"]),
+        #expand("output/orthofinder/{genome}.fasta", genome=["G_muris_aa", "G_intestinalis_aa", "S_salmonicida_aa"]),
+        "output/1_orthofinder/"
 
 rule tRNAscan:
    input: "resource/genome/G_intestinalis.fasta"
@@ -79,7 +80,7 @@ rule blastn:
 
 rule orthofinder:
     input:
-        fasta = "resource/orthofinder/{genome}.fasta",
+        fasta = "resource/orthofinder/",
     output:
           directory('output/orthofinder/')
     conda:

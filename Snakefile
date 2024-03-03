@@ -9,7 +9,7 @@ rule all:
         #expand("output/tRNAscan/{sp}.tRNA", sp=["G_muris", "G_intestinalis"]),
         #expand("output/blastn/G_intestinalis/{sp}.blastn",sp=["G_muris", "S_salmonicida"]),
         #expand("output/orthofinder/{genome}.fasta", genome=["G_muris_aa", "G_intestinalis_aa", "S_salmonicida_aa"]),
-        "output/1_orthofinder/"
+        "output/orthofinder/"
 
 rule tRNAscan:
    input: "resource/genome/G_intestinalis.fasta"
@@ -98,3 +98,51 @@ rule barrnap:
 
     shell:
         """barrnap --kingdom euk --quiet {input.genome} > {output.barrnap_gff}"""
+
+rule bwa_index:
+    input: "resources/{type}/{assembly}.fasta"
+    output:
+          multiext(
+              "output/{type}/index_bwa/{assembly}",
+              ".amb",
+              ".ann",
+              ".bwt",
+              ".pac",
+              ".sa")
+    params:
+          outname="output/{type}/index_bwa/{assembly}",
+          num_threads=30
+    conda:
+         "envs/blast.yaml"
+    shell:
+         'bwa index {input}'
+
+rule bwa_map_reads:
+    input:
+         genome="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS_clean/resource/Masurca_3_no_cont.fasta",
+         read="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/DNAseq/{reads}.fastq.gz"
+    output:
+          bam="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/output/{type}/{assembly}/{reads}.bam",
+          bai="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/output/{type}/{assembly}/{reads}.bai"
+    params:
+          num_threads=30
+    conda:
+         "envs/blast.yaml"
+    script:
+          "scripts/bwa.py"
+
+rule bwa_map_paired_reads:
+    input:
+         genome="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS_clean/resource/Masurca_3_no_cont.fasta",
+         illumina_R1="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/DNAseq/{reads}_R1.fastq.gz",
+         illumina_R2="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/DNAseq/{reads}_R2.fastq.gz"
+    output:
+          bam="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/output/{type}/{assembly}/{reads}.bam",
+          bai="/data/zeynep/HIN_Assemblies/Assembly/7_raw_data/RAW_READS/output/{type}/{assembly}/{reads}.bai"
+    params:
+          num_threads=30,
+          paired=True
+    conda:
+         "envs/blast.yaml"
+    script:
+          "scripts/bwa.py"
